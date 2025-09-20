@@ -1,0 +1,67 @@
+---------------------------------------------
+### 4. Altitudes and Medians of a triangle
+---------------------------------------------
+
+**Let's recall.**
+
+[cite_start]In the previous standard, we have learnt that the bisectors of angles of a triangle, as well as the perpendicular bisectors of its sides, are concurrent[cite: 4]. [cite_start]These points of concurrence are respectively called the **incentre** and the **circumcentre** of the triangle[cite: 5].
+
+---
+**Let's learn.**
+
+### Altitude
+[cite_start]The perpendicular segment drawn from a vertex of a triangle on the side opposite to it is called an **altitude** of the triangle[cite: 9]. [cite_start]In $\Delta$ ABC, segment AP is an altitude on the base BC[cite: 10].
+
+**To draw altitudes of a triangle:**
+1.  [cite_start]Draw any $\Delta$ XYZ[cite: 11].
+2.  Draw a perpendicular from vertex X to the opposite side YZ using a set square. [cite_start]The segment XR is an altitude on side YZ[cite: 12, 13].
+3.  [cite_start]Similarly, draw altitude YQ on side XZ and altitude ZP on side XY[cite: 14, 15].
+
+[cite_start]The three altitudes of a triangle are concurrent (they pass through a single point)[cite: 18]. [cite_start]This point of concurrence is called the **orthocentre** of the triangle and is denoted by the letter 'O'[cite: 18, 19].
+
+**Location of the Orthocentre:**
+* [cite_start]The orthocentre of a **right-angled triangle** is the vertex of the right angle[cite: 60].
+* [cite_start]The orthocentre of an **obtuse-angled triangle** is in the exterior of the triangle[cite: 61].
+* [cite_start]The orthocentre of an **acute-angled triangle** is in the interior of the triangle[cite: 62].
+
+
+---
+### Median
+[cite_start]The segment joining a vertex and the midpoint of the opposite side is called a **median** of the triangle[cite: 65].
+
+**To draw medians of a triangle:**
+1.  [cite_start]Draw $\Delta$ АВС[cite: 73].
+2.  [cite_start]Find the midpoint P of side AB and draw segment CP[cite: 74].
+3.  [cite_start]Similarly, find the midpoints Q of BC and R of AC, and draw segments AQ and BR[cite: 75, 79].
+
+[cite_start]The medians of a triangle are concurrent[cite: 84]. [cite_start]Their point of concurrence is called the **centroid** and is denoted by 'G'[cite: 84]. [cite_start]The centroid is always located in the **interior** of the triangle, regardless of the triangle type[cite: 95].
+
+**Property of the Centroid:**
+[cite_start]The centroid divides each median in the ratio **2:1**[cite: 96].
+
+---
+### Practice Set 4.1
+
+1.  In $\Delta$ LMN, ______ is an altitude and ______ is a median. (Write the names of appropriate segments from the given figure) [cite_start][cite: 113, 114, 115].
+
+2.  Draw an acute-angled $\Delta$ PQR. Draw all of its altitudes. [cite_start]Name the point of concurrence as 'O'[cite: 116].
+
+3.  Draw an obtuse-angled $\Delta$ STV. [cite_start]Draw its medians and show the centroid[cite: 117].
+
+4.  Draw an obtuse-angled $\Delta$ LMN. [cite_start]Draw its altitudes and denote the orthocentre by 'O'[cite: 118, 119].
+
+5.  Draw a right-angled $\Delta$ XYZ. [cite_start]Draw its medians and show their point of concurrence by G[cite: 120].
+
+6.  Draw an isosceles triangle. Draw all of its medians and altitudes. [cite_start]Write your observation about their points of concurrence[cite: 121].
+
+7.  Fill in the blanks. [cite_start]Point G is the centroid of $\Delta$ ABC[cite: 126].
+    (1) [cite_start]If $l(RG) = 2.5$ then $l(GC) = $ ______[cite: 127].
+    (2) [cite_start]If $l(BG) = 6$ then $l(BQ) = $ ______[cite: 128].
+    (3) [cite_start]If $l(AP) = 6$ then $l(AG) = $ ______ and $l(GP) = $ ______[cite: 130, 132].
+
+---
+### Answers
+
+**Practice Set 4.1**
+* [cite_start]**1.** seg LX and seg LY [cite: 140]
+* [cite_start]**7.** (1) 5 [cite: 141][cite_start], (2) 9 [cite: 142][cite_start], (3) 4, 2 [cite: 143]
