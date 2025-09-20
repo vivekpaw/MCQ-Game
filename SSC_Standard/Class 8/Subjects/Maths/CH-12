@@ -1,0 +1,83 @@
+---------------------------------
+### 12. Equations in One Variable
+---------------------------------
+
+**Let's recall.**
+
+[cite_start]An **equation in one variable** is a statement that two expressions are equal. [cite: 1733] [cite_start]The value of the variable that makes the equation true is called the **solution**. [cite: 1734] [cite_start]Solving an equation means finding its solution. [cite: 1736]
+
+[cite_start]We can perform the same operation on both sides of an equation without changing its solution. [cite: 1739] These operations include:
+* [cite_start]Adding the same number to both sides. [cite: 1742]
+* [cite_start]Subtracting the same number from both sides. [cite: 1743]
+* [cite_start]Multiplying both sides by the same number. [cite: 1744]
+* [cite_start]Dividing both sides by the same non-zero number. [cite: 1745]
+
+---
+**Practice Set 12.1**
+
+1.  Each equation is followed by values of the variable. Decide whether these values are the solutions of that equation.
+    (1) $x - 4 = 3$;  [cite_start]$x = -1, 7, -7$ [cite: 1819, 1820]
+    (2) $9m = 81$;  [cite_start]$m = 3, 9, -3$ [cite: 1822, 1823]
+    (3) $2a + 4 = 0$; [cite_start]$a = 2, -2, 1$ [cite: 1824]
+    (4) $3 - y = 4$;  [cite_start]$y = -1, 1, 2$ [cite: 1826, 1827]
+
+2.  Solve the following equations.
+    (1) [cite_start]$17p - 2 = 49$ [cite: 1831]
+    (2) [cite_start]$2m + 7 = 9$ [cite: 1832]
+    (3) [cite_start]$3x + 12 = 2x - 4$ [cite: 1833]
+    (4) [cite_start]$5(x - 3) = 3(x + 2)$ [cite: 1835]
+    (5) [cite_start]$\frac{9x}{8} + 1 = 10$ [cite: 1835]
+    (6) [cite_start]$\frac{y}{7} + \frac{y-4}{3} = 2$ [cite: 1837]
+    (7) [cite_start]$13x - 5 = \frac{3}{2}$ [cite: 1834]
+    (8) [cite_start]$3(y + 8) = 10(y - 4) + 8$ [cite: 1838]
+    (9) [cite_start]$\frac{x-9}{x-5} = \frac{5}{7}$ [cite: 1839]
+    (10) [cite_start]$\frac{y-4}{3} + 3y = 4$ [cite: 1836]
+    (11) [cite_start]$\frac{b+(b+1)+(b+2)}{4} = 21$ [cite: 1836]
+
+---
+**Let's learn.**
+
+### Word Problems
+To solve word problems, we convert the given information into an algebraic expression using a variable.
+
+**Example:**
+Joseph's weight is two times the weight of his younger brother. The sum of their weights is 63 kg. Find Joseph's weight.
+* **Solution**:
+    * [cite_start]Let the younger brother's weight be $x$ kg. [cite: 1893]
+    * [cite_start]Joseph's weight is $2x$ kg. [cite: 1894]
+    * [cite_start]According to the problem: $x + 2x = 63$. [cite: 1895]
+    * [cite_start]$3x = 63$, so $x = 21$. [cite: 1896, 1897]
+    * [cite_start]Joseph's weight = $2x = 2 \times 21 = 42$ kg. [cite: 1898]
+
+---
+**Practice Set 12.2**
+
+1.  Mother is 25 years older than her son. [cite_start]Find the son's age if after 8 years, the ratio of the son's age to the mother's age will be $\frac{4}{9}$. [cite: 1947]
+2.  The denominator of a fraction is greater than its numerator by 12. If the numerator is decreased by 2 and the denominator is increased by 7, the new fraction is equivalent to $\frac{1}{2}$. [cite_start]Find the fraction. [cite: 1948, 1949]
+3.  The ratio of the weights of copper and zinc in brass is 13:7. [cite_start]Find the weight of zinc in a brass utensil weighing 700 gm. [cite: 1952, 1953]
+4.  [cite_start]Find three consecutive whole numbers whose sum is more than 45 but less than 54. [cite: 1954]
+5.  In a two-digit number, the digit at the ten's place is twice the digit at the unit's place. [cite_start]If the number obtained by interchanging the digits is added to the original number, the sum is 66. Find the number. [cite: 1955, 1956]
+6.  The number of ₹200 tickets sold for a drama was 20 more than the number of ₹100 tickets. [cite_start]If the total amount received was ₹37,000, find the number of ₹100 tickets sold. [cite: 1957, 1958, 1959]
+7.  Of three consecutive natural numbers, five times the smallest number is 9 more than four times the greatest number. [cite_start]Find the numbers. [cite: 1960, 1963]
+8.  Raju sold a bicycle to Amit at an 8% profit. Amit repaired it for ₹54 and then sold it to Nikhil for ₹1134 with no loss or profit. [cite_start]Find the cost price for which Raju purchased it. [cite: 1964, 1965]
+9.  A cricket player scored 180 runs in the first match and 257 in the second. [cite_start]Find the number of runs he should score in the third match so that the average of runs in the three matches is 230. [cite: 1966, 1967]
+10. Sudhir's present age is 5 more than three times the age of Viru. Anil's age is half the age of Sudhir. [cite_start]If the ratio of the sum of Sudhir's and Viru's age to three times Anil's age is 5:6, find Viru's age. [cite: 1968, 1969]
+
+---
+### **Answers**
+
+* **Practice Set 12.1**
+    * [cite_start]1. Solutions are: (1) $x=7$ [cite: 1971, 1975] (2) [cite_start]$m=9$ [cite: 1971, 1975] (3) [cite_start]$a=-2$ [cite: 1971, 1974] (4) [cite_start]$y=-1$ [cite: 1971]
+    * [cite_start]2. (1) $p=3$ [cite: 1971] (2) [cite_start]$m=1$ [cite: 1971] (3) [cite_start]$x=-16$ [cite: 1971] (4) [cite_start]$x=21/2$ [cite: 1971, 1975] (5) [cite_start]$x=8$ [cite: 1974] (6) [cite_start]$y=7$ [cite: 1974] (7) [cite_start]$x=1/2$ [cite: 1972] (8) [cite_start]$y=8$ [cite: 1972] (9) [cite_start]$x=19$ [cite: 1972] (10) [cite_start]$y=8/5$ [cite: 1975] (11) [cite_start]$b=27$ [cite: 1975]
+
+* **Practice Set 12.2**
+    * [cite_start]1. 12 years [cite: 1972]
+    * [cite_start]2. $\frac{23}{35}$ [cite: 1976]
+    * [cite_start]3. 245 gm [cite: 1973]
+    * [cite_start]4. 15, 16, 17 or 16, 17, 18 [cite: 1972]
+    * [cite_start]5. 42 [cite: 1977]
+    * [cite_start]6. 110 [cite: 1973]
+    * [cite_start]7. 17, 18, 19 [cite: 1973]
+    * [cite_start]8. ₹1000 [cite: 1973]
+    * [cite_start]9. 253 [cite: 1977]
+    * [cite_start]10. 5 years [cite: 1978]
