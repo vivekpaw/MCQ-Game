@@ -1,0 +1,278 @@
+--------------------------------------------------
+### 1. Rational and Irrational numbers
+--------------------------------------------------
+
+**Let's recall.**
+
+[cite_start]We are familiar with Natural numbers, Whole numbers, Integers and Rational numbers. [cite: 4]
+
+* [cite_start]**Natural numbers** [cite: 5]
+    [cite_start]1, 2, 3, 4, ... [cite: 6]
+
+* [cite_start]**Whole numbers** [cite: 7]
+    [cite_start]0, 1, 2, 3, 4, ... [cite: 8]
+
+* [cite_start]**Integers** [cite: 15]
+    [cite_start]..., -4, -3, -2, -1, 0, 1, 2, 3, ... [cite: 16]
+
+* [cite_start]**Rational numbers** [cite: 9]
+    [cite_start]-25, $\frac{10}{-7}$, -4, 0, 3, 8, $\frac{32}{3}$, $\frac{67}{5}$, etc. [cite: 10, 14, 17]
+
+[cite_start]The numbers of the form $\frac{m}{n}$ are called rational numbers. [cite: 12, 13, 18] [cite_start]Here, m and n are integers but n is not zero. [cite: 12]
+[cite_start]We have also seen that there are infinite rational numbers between any two rational numbers. [cite: 19]
+
+**Let's learn.**
+
+[cite_start]**To show rational numbers on a number line** [cite: 21]
+
+[cite_start]Let us see how to show $\frac{7}{3}$, 2, $\frac{-2}{3}$ on a number line. [cite: 22]
+[cite_start]Let us draw a number line. [cite: 23]
+
+
+* [cite_start]We can show the number 2 on a number line. [cite: 35]
+* [cite_start]For $\frac{7}{3}$: Since $\frac{7}{3} = 7 \times \frac{1}{3}$, each unit on the right side of zero is to be divided in three equal parts. [cite: 36, 37] [cite_start]The seventh point from zero shows $\frac{7}{3}$. [cite: 38, 41]
+* [cite_start]Alternatively, $\frac{7}{3} = 2 + \frac{1}{3}$, hence the point at $\frac{1}{3}$rd distance of a unit after 2 shows $\frac{7}{3}$. [cite: 40, 43, 44]
+* [cite_start]To show $\frac{-2}{3}$ on the number line, first we show $\frac{2}{3}$ on it. [cite: 46, 48] [cite_start]The number to the left of 0 at the same distance will show the number $\frac{-2}{3}$. [cite: 47, 49, 51]
+
+---
+[cite_start]**Practice set 1.1** [cite: 50]
+
+1.  Show the following numbers on a number line. [cite_start]Draw a separate number line for each example. [cite: 52, 53]
+    (1) [cite_start]$\frac{3}{2}$, $\frac{5}{2}$, $-\frac{3}{2}$ [cite: 55]
+    (2) [cite_start]$\frac{7}{5}$, $\frac{-2}{5}$, $\frac{-4}{5}$ [cite: 57]
+    (3) [cite_start]$\frac{-5}{8}$, $\frac{11}{8}$ [cite: 68]
+    (4) [cite_start]$\frac{13}{10}$, $\frac{-17}{10}$ [cite: 70]
+
+2.  [cite_start]Observe the number line and answer the questions. [cite: 59]
+        (1) [cite_start]Which number is indicated by point B? [cite: 66]
+    (2) [cite_start]Which point indicates the number $1\frac{3}{4}$? [cite: 67]
+    (3) [cite_start]State whether the statement, 'the point D denotes the number $\frac{5}{2}$' is true or false. [cite: 77, 78, 79]
+
+---
+[cite_start]**Let's learn.** [cite: 80]
+
+[cite_start]**Comparison of rational numbers** [cite: 81]
+
+[cite_start]We know that, for any pair of numbers on a number line the number to the left is smaller than the other. [cite: 82] [cite_start]Also, if the numerator and the denominator of a rational number is multiplied by any non-zero number then the value of rational number does not change. [cite: 83] [cite_start]That is, $\frac{a}{b} = \frac{ka}{kb}$ ($k \ne 0$). [cite: 84, 86, 87]
+
+* **Ex. (1)[cite_start]** Compare the numbers $\frac{5}{4}$ and $\frac{2}{3}$. [cite: 85, 89, 90, 91]
+    Solution:
+    [cite_start]$\frac{5}{4} = \frac{5 \times 3}{4 \times 3} = \frac{15}{12}$ [cite: 92]
+    [cite_start]$\frac{2}{3} = \frac{2 \times 4}{3 \times 4} = \frac{8}{12}$ [cite: 93]
+    [cite_start]$\frac{15}{12} > \frac{8}{12}$, therefore $\frac{5}{4} > \frac{2}{3}$. [cite: 94]
+
+* **Ex. (2)[cite_start]** Compare the rational numbers $\frac{-7}{9}$ and $\frac{4}{5}$. [cite: 96]
+    [cite_start]Solution: A negative number is always less than a positive number. [cite: 97] [cite_start]Therefore, $-\frac{7}{9} < \frac{4}{5}$. [cite: 98]
+
+[cite_start]To compare two negative numbers, let us verify that if a and b are positive numbers such that $a < b$, then $-a > -b$. [cite: 99, 100]
+[cite_start]For example, $2 < 3$ but $-2 > -3$. [cite: 101] [cite_start]Or $\frac{5}{4} < \frac{7}{4}$ but $\frac{-5}{4} > \frac{-7}{4}$. [cite: 102, 103]
+
+[cite_start]The following rules are useful to compare two rational numbers $\frac{a}{b}$ and $\frac{c}{d}$ such that b and d are positive: [cite: 121, 122, 123]
+1.  [cite_start]If $a \times d < b \times c$ then $\frac{a}{b} < \frac{c}{d}$ [cite: 124]
+2.  [cite_start]If $a \times d = b \times c$ then $\frac{a}{b} = \frac{c}{d}$ [cite: 125, 134]
+3.  [cite_start]If $a \times d > b \times c$ then $\frac{a}{b} > \frac{c}{d}$ [cite: 126, 135]
+
+---
+[cite_start]**Practice Set 1.2** [cite: 136]
+
+1.  [cite_start]Compare the following numbers. [cite: 127]
+    (1) [cite_start]-7, -2 [cite: 128]
+    (2) [cite_start]0, $\frac{-9}{5}$ [cite: 131]
+    (3) [cite_start]$\frac{8}{7}$, 0 [cite: 138]
+    (4) [cite_start]$\frac{-5}{4}$, $\frac{1}{4}$ [cite: 140]
+    (5) [cite_start]$\frac{40}{29}$, $\frac{141}{29}$ [cite: 143, 145]
+    (6) [cite_start]$-\frac{17}{20}$, $\frac{-13}{20}$ [cite: 130]
+    (7) [cite_start]$\frac{15}{12}$, $\frac{7}{16}$ [cite: 132, 133]
+    (8) [cite_start]$\frac{-25}{8}$, $\frac{-9}{4}$ [cite: 141]
+    (9) [cite_start]$\frac{12}{15}$, $\frac{3}{5}$ [cite: 142]
+    (10) [cite_start]$\frac{-7}{11}$, $\frac{-3}{4}$ [cite: 144, 145]
+
+---
+[cite_start]**Let's learn.** [cite: 147]
+
+[cite_start]**Decimal representation of rational numbers** [cite: 148]
+
+[cite_start]If we use decimal fractions while dividing the numerator of a rational number by its denominator, we get the decimal representation of a rational number. [cite: 149]
+[cite_start]For example, $\frac{7}{4} = 1.75$. [cite: 150] [cite_start]In this case, the remainder is zero and the process of division ends. [cite: 150, 151] [cite_start]Such a decimal form is called a terminating decimal form. [cite: 152]
+
+[cite_start]We know that every rational number can be written in a non-terminating recurring decimal form. [cite: 153]
+Examples:
+(1) [cite_start]$\frac{7}{6} = 1.1666... = 1.1\dot{6}$ [cite: 154]
+(2) [cite_start]$\frac{5}{6} = 0.833... = 0.8\dot{3}$ [cite: 157]
+(3) [cite_start]$\frac{-5}{3} = -1.666... = -1.\dot{6}$ [cite: 155]
+(4) [cite_start]$\frac{22}{7} = 3.142857142857... = 3.\overline{142857}$ [cite: 158]
+(5) [cite_start]$\frac{23}{99} = 0.2323... = 0.\overline{23}$ [cite: 158]
+
+A terminating decimal form can be written as a non-terminating recurring decimal form. [cite_start]For example, $\frac{7}{4} = 1.75 = 1.75000... = 1.75\dot{0}$. [cite: 159]
+
+---
+[cite_start]**Practice Set 1.3** [cite: 160]
+
+1.  [cite_start]Write the following rational numbers in decimal form. [cite: 161]
+    (1) [cite_start]$\frac{9}{37}$ [cite: 162]
+    (2) [cite_start]$\frac{18}{42}$ [cite: 162]
+    (3) [cite_start]$\frac{9}{14}$ [cite: 162]
+    (4) [cite_start]$\frac{-103}{5}$ [cite: 164]
+    (5) [cite_start]$-\frac{11}{13}$ [cite: 165, 166]
+
+---
+[cite_start]**Let's learn.** [cite: 164]
+
+[cite_start]**Irrational numbers** [cite: 167]
+
+[cite_start]In addition to rational numbers, there are many more numbers on a number line. [cite: 168] [cite_start]They are not rational numbers; they are irrational numbers. [cite: 169] [cite_start]$\sqrt{2}$ is such an irrational number. [cite: 169]
+
+[cite_start]To show the number $\sqrt{2}$ on a number line: [cite: 170]
+1.  [cite_start]On a number line, the point A shows the number 1. Draw a line perpendicular to the number line through point A. [cite: 171, 172]
+2.  [cite_start]Take point P on the perpendicular line such that $OA = AP = 1$ unit. [cite: 173]
+3.  Draw segment OP. [cite_start]The $\triangle OAP$ formed is a right-angled triangle. [cite: 174]
+4.  [cite_start]By Pythagoras theorem, $OP^2 = OA^2 + AP^2 = 1^2 + 1^2 = 1 + 1 = 2$. [cite: 176, 177, 178]
+5.  [cite_start]Therefore, $OP = \sqrt{2}$. [cite: 180]
+6.  Draw an arc with centre O and radius OP. [cite_start]The point Q where the arc intersects the number line shows the number $\sqrt{2}$. [cite: 184, 190, 191]
+
+[cite_start]The decimal form of an irrational number is non-terminating and non-recurring. [cite: 194] [cite_start]The numbers which can be shown by points of a number line are called real numbers. [cite: 199]
+
+---
+[cite_start]**Practice Set 1.4** [cite: 207]
+
+1.  The number $\sqrt{2}$ is shown on a number line. Steps are given to show $\sqrt{3}$ on the number line using $\sqrt{2}$. [cite_start]Fill in the boxes properly and complete the activity. [cite: 208, 209]
+    * Activity:
+        * [cite_start]The point Q on the number line shows the number $\sqrt{2}$. [cite: 212]
+        * [cite_start]A line perpendicular to the number line is drawn through point Q. Point R is at unit distance from Q on the line. [cite: 213]
+        * [cite_start]Right angled $\triangle ORQ$ is obtained by drawing seg OR. [cite: 214]
+        * [cite_start]$l(OQ) = \sqrt{2}$, $l(QR) = 1$ [cite: 215]
+        * [cite_start]By Pythagoras theorem, $[l(OR)]^2 = [l(OQ)]^2 + [l(QR)]^2 = (\sqrt{2})^2 + 1^2 = 2 + 1 = 3$. [cite: 216, 217, 218, 219]
+        * [cite_start]Therefore $l(OR) = \sqrt{3}$. [cite: 220]
+        * Draw an arc with centre O and radius OR. [cite_start]The point C where the arc intersects the line shows the number $\sqrt{3}$. [cite: 225, 226]
+
+2.  [cite_start]Show the number $\sqrt{5}$ on the number line. [cite: 228]
+3.  [cite_start]Show the number $\sqrt{7}$ on the number line. [cite: 230]
+
+---
+[cite_start]**Answers** [cite: 238]
+
+* [cite_start]**Practice Set 1.2** [cite: 243]
+    (1) [cite_start]$-7 < -2$ [cite: 234]
+    (2) [cite_start]$0 > \frac{-9}{5}$ [cite: 237]
+    (3) [cite_start]$\frac{8}{7} > 0$ [cite: 248]
+    (4) [cite_start]$\frac{-5}{4} < \frac{1}{4}$ [cite: 249]
+    (5) [cite_start]$\frac{40}{29} < \frac{141}{29}$ [cite: 249]
+    (6) [cite_start]$\frac{-17}{20} < \frac{-13}{20}$ [cite: 245]
+    (7) [cite_start]$\frac{15}{12} > \frac{7}{16}$ [cite: 247]
+    (8) [cite_start]$\frac{-25}{8} < \frac{-9}{4}$ [cite: 253]
+    (9) [cite_start]$\frac{12}{15} > \frac{3}{5}$ [cite: 254]
+    (10) [cite_start]$\frac{-7}{11} > \frac{-3}{4}$ [cite: 246]
+
+* [cite_start]**Practice Set 1.3** [cite: 255]
+    (1) [cite_start]$0.\overline{243}$ [cite: 256]
+    (2) [cite_start]$0.\overline{428571}$ [cite: 256]
+    (3) [cite_start]$0.6\overline{428571}$ [cite: 256]
+    (4) [cite_start]-20.6 [cite: 256]
+    (5) [cite_start]$-0.\overline{846153}$ [cite: 256]
+
+--------------------------------------------------
+### 2. Parallel lines and transversal
+--------------------------------------------------
+
+[cite_start]**Let's recall.** [cite: 262]
+
+[cite_start]The lines in the same plane which do not intersect each other are called parallel lines. [cite: 263] [cite_start]'Line $l$ and line $m$ are parallel lines,' is written as 'line $l \parallel$ line $m$'. [cite: 264]
+
+[cite_start]**Let's learn.** [cite: 268]
+
+* [cite_start]**Transversal** [cite: 267]
+    [cite_start]If a line intersects given two lines in two distinct points then that line is called a transversal of those two lines. [cite: 277]
+
+* [cite_start]**Angles made by a transversal** [cite: 278]
+    [cite_start]When a transversal intersects two lines, there are 8 angles in all. [cite: 280] [cite_start]These angles are grouped in different pairs. [cite: 281]
+
+    * [cite_start]**Corresponding angles:** [cite: 282] [cite_start]If the arms on the transversal of a pair of angles are in the same direction and the other arms are on the same side of the transversal, then it is called a pair of corresponding angles. [cite: 283]
+
+    * [cite_start]**Interior angles:** [cite: 292] [cite_start]A pair of angles which are on the same side of the transversal and inside the given lines is called a pair of interior angles. [cite: 293]
+
+    * [cite_start]**Alternate angles:** [cite: 308] [cite_start]Pairs of angles which are on the opposite sides of transversal and their arms on the transversal show opposite directions is called a pair of alternate angles. [cite: 309]
+        * [cite_start]Interior alternate angles (Angles at the inner side of lines) [cite: 312, 314]
+        * [cite_start]Exterior alternate angles (Angles at the outer side of lines) [cite: 313, 315]
+
+---
+[cite_start]**Practice Set 2.1** [cite: 322]
+
+1.  In the adjoining figure, each angle is shown by a letter. [cite_start]Fill in the boxes with the help of the figure. [cite: 323, 324]
+    [Image showing two parallel lines intersected by a transversal, with angles labeled p, q, r, s and w, x, y, z]
+    * Corresponding angles:
+        * (1) [cite_start]$\angle p$ and $\angle w$ [cite: 326, 578]
+        * (2) [cite_start]$\angle q$ and $\angle x$ [cite: 327, 578]
+        * (3) [cite_start]$\angle r$ and $\angle y$ [cite: 329, 578]
+        * (4) [cite_start]$\angle s$ and $\angle z$ [cite: 330, 578]
+    * Interior alternate angles:
+        * (5) [cite_start]$\angle s$ and $\angle x$ [cite: 339, 578]
+        * (6) [cite_start]$\angle w$ and $\angle r$ [cite: 340, 582]
+
+2.  [cite_start]Observe the angles shown in the figure and write the following pair of angles. [cite: 341, 342]
+    [Image showing two lines intersected by a transversal, with angles labeled a, b, c, d and e, f, g, h]
+    * (1) [cite_start]Interior alternate angles [cite: 343]
+    * (2) [cite_start]Corresponding angles [cite: 344]
+    * (3) [cite_start]Interior angles [cite: 345]
+
+---
+[cite_start]**Let's learn.** [cite: 351]
+
+[cite_start]**Properties of angles formed by two parallel lines and a transversal** [cite: 352]
+
+[cite_start]When two parallel lines are intersected by a transversal: [cite: 373]
+1.  [cite_start]**Property of corresponding angles:** Each pair of corresponding angles is congruent. [cite: 376, 377]
+2.  [cite_start]**Property of alternate angles:** Each pair of alternate angles (both interior and exterior) is congruent. [cite: 392, 393, 395]
+3.  [cite_start]**Property of interior angles:** Each pair of interior angles is supplementary (their sum is $180^{\circ}$). [cite: 404, 405, 407]
+
+---
+[cite_start]**Practice Set 2.2** [cite: 465]
+
+1.  [cite_start]Choose the correct alternative. [cite: 466]
+    (1) [cite_start]In the adjoining figure, if line $m \parallel$ line $n$ and line p is a transversal then find x. [cite: 467]
+    [Image showing interior angles 3x and x]
+    (A) [cite_start]$135^{\circ}$ (B) $90^{\circ}$ (C) $45^{\circ}$ (D) $40^{\circ}$ [cite: 468, 469]
+
+    (2) [cite_start]In the adjoining figure, if line $a \parallel$ line $b$ and line l is a transversal then find x. [cite: 480]
+    [Image showing exterior angle 4x and interior angle 2x]
+    (A) [cite_start]$90^{\circ}$ (B) $60^{\circ}$ (C) $45^{\circ}$ (D) $30^{\circ}$ [cite: 478, 479, 481]
+
+2.  In the adjoining figure line $p \parallel$ line $q$. Line t and line s are transversals. [cite_start]Find measure of $\angle x$ and $\angle y$ using the measures of angles given in the figure. [cite: 493, 494]
+    [Image with line p parallel to line q, showing angles $40^{\circ}$, $x$, $y$, and $70^{\circ}$]
+
+3.  In the adjoining figure, line $p \parallel$ line $q$ and line $l \parallel$ line $m$. Find measures of $\angle a$, $\angle b$, and $\angle c$, using the measures of given angles. [cite_start]Justify your answers. [cite: 495, 496]
+    [Image with two pairs of parallel lines, showing an angle of $80^{\circ}$ and unknown angles a, b, c]
+
+4.  In the adjoining figure, line $a \parallel$ line $b$. line l is a transversal. [cite_start]Find the measures of $\angle x$, $\angle y$, $\angle z$ using the given information. [cite: 507, 508]
+    [Image with line a parallel to line b, showing an angle of $105^{\circ}$ and unknown angles x, y, z]
+
+5.  In the adjoining figure, line $p \parallel$ line $l \parallel$ line $q$. [cite_start]Find $\angle x$ with the help of the measures given in the figure. [cite: 509, 510, 511]
+    [Image with three parallel lines, showing a composite angle x made of a $40^{\circ}$ part and a $30^{\circ}$ part]
+
+---
+[cite_start]**To draw a line parallel to the given line** [cite: 520]
+
+[cite_start]**Construction (I): To draw a line parallel to the given line through a point outside the given line using set-square.** [cite: 521, 522]
+
+[cite_start]**Construction (II): To draw a parallel line to a given line at a given distance.** [cite: 552, 553]
+[cite_start]Method: Draw a line parallel to line l at a distance 2.5 cm. [cite: 554, 555]
+1.  Draw line l. [cite_start]Take two points A and B on the line l. [cite: 557]
+2.  [cite_start]Draw perpendiculars to the line l from points A and B. [cite: 565]
+3.  [cite_start]On the perpendicular lines take points P and Q at a distance of 2.5cm from A and B respectively. [cite: 568]
+4.  Draw line PQ. [cite_start]Line PQ is a line parallel to the line l at a distance 2.5cm. [cite: 569]
+
+---
+[cite_start]**Practice Set 2.3** [cite: 570]
+
+1.  Draw a line l. Take a point A outside the line. [cite_start]Through point A draw a line parallel to line l. [cite: 571, 572]
+2.  Draw a line l. Take a point T outside the line. [cite_start]Through point T draw a line parallel to line l. [cite: 573, 574]
+3.  Draw a line m. [cite_start]Draw a line n which is parallel to line m at a distance of 4 cm from it. [cite: 575]
+
+---
+[cite_start]**Answers** [cite: 577]
+
+* [cite_start]**Practice Set 2.2** [cite: 579]
+    1. (1) [cite_start]C (2) D [cite: 579]
+    2. [cite_start]$\angle x = 140^{\circ}$, $\angle y = 110^{\circ}$ [cite: 579]
+    3. [cite_start]$\angle a = 100^{\circ}$, $\angle b = 80^{\circ}$, $\angle c = 80^{\circ}$ [cite: 580]
+    4. [cite_start]$\angle x = 105^{\circ}$, $\angle y = 105^{\circ}$, $\angle z = 75^{\circ}$ [cite: 580]
+    5. [cite_start]$\angle x = 70^{\circ}$ [cite: 580]
