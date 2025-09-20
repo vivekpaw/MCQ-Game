@@ -1,0 +1,104 @@
+--------------------
+### 7. Variation
+--------------------
+
+**Let's learn.**
+
+### Direct Variation
+When two quantities, x and y, are related in such a way that an increase or decrease in one causes a proportional increase or decrease in the other, they are in **direct variation**. The ratio of the two quantities remains constant.
+
+This relationship is written as:
+* [cite_start]**Symbolic form**: $x \propto y$ [cite: 1282]
+* [cite_start]**Equation form**: $x = ky$ or $\frac{x}{y} = k$, where 'k' is the constant of variation. [cite: 1283, 1284]
+
+**Examples of statements using variation symbols:**
+* [cite_start]The area of a circle (A) is directly proportional to the square of its radius (r): $A \propto r^2$. [cite: 1287, 1288]
+* [cite_start]The pressure of a liquid (p) varies directly as its depth (d): $p \propto d$. [cite: 1289]
+
+---
+**Practice Set 7.1**
+
+1.  Write the following statements using the symbol of variation.
+    (1) [cite_start]Circumference (c) of a circle is directly proportional to its radius (r). [cite: 1313]
+    (2) [cite_start]Consumption of petrol (l) in a car and distance travelled by that car (d) are in direct variation. [cite: 1314]
+
+2.  [cite_start]Complete the following table, considering that the cost of apples and their number are in direct variation. [cite: 1316]
+| Number of apples (x) | 1 | 4  | ... | 12  | ...   |
+|----------------------|---|----|-----|-----|-------|
+| Cost of apples (y)   | 8 | 32 | 56  | ... | 160   |
+
+3.  If $m \propto n$ and when $m=154$, $n=7$. [cite_start]Find the value of m, when $n=14$. [cite: 1320]
+
+4.  [cite_start]If n varies directly as m, complete the following table. [cite: 1321]
+| m | 3  | 5  | 6.5 | ...  | 1.25 |
+|---|----|----|-----|------|------|
+| n | 12 | 20 | ... | 28   | ...  |
+
+5.  y varies directly as the square root of x. When $x=16$, $y=24$. [cite_start]Find the constant of variation and the equation of variation. [cite: 1323]
+
+6.  The total remuneration paid to labourers to harvest soyabeans is in direct variation with the number of labourers. [cite_start]If the remuneration of 4 labourers is ₹1000, find the remuneration of 17 labourers. [cite: 1325, 1326]
+
+---
+### Inverse Variation
+[cite_start]When two quantities, x and y, are related such that an increase in one quantity causes a proportional decrease in the other (and vice-versa), they are in **inverse variation**. [cite: 1332] [cite_start]In this case, the product of the two quantities is constant. [cite: 1337]
+
+This relationship is written as:
+* [cite_start]**Symbolic form**: $x \propto \frac{1}{y}$ [cite: 1340]
+* [cite_start]**Equation form**: $x \times y = k$ or $x = \frac{k}{y}$, where 'k' is the constant of variation. [cite: 1341]
+
+---
+**Practice Set 7.2**
+
+1.  The information about the number of workers and the number of days to complete a work is given. [cite_start]Complete the table. [cite: 1386]
+| Number of workers | 30 | 20 | ... | 10 | ... |
+|-------------------|----|----|-----|----|-----|
+| Days              | 6  | 9  | 12  | .. | 36  |
+
+2.  [cite_start]Find the constant of variation and write the equation of variation for each example. [cite: 1389]
+    (1) [cite_start]$p \propto \frac{1}{q}$; if $p=15$ then $q=4$. [cite: 1390, 1394]
+    (2) [cite_start]$z \propto \frac{1}{w}$; when $z=2.5$ then $w=24$. [cite: 1391]
+    (3) [cite_start]$s \propto \frac{1}{t^2}$; if $s=4$ then $t=5$. [cite: 1397, 1398]
+    (4) [cite_start]$x \propto \frac{1}{\sqrt{y}}$; if $x=15$ then $y=9$. [cite: 1399, 1400]
+
+3.  The boxes are to be filled with apples from a heap. If 24 apples are put in a box, then 27 boxes are needed. [cite_start]If 36 apples are filled in a box, how many boxes will be needed? [cite: 1401, 1402, 1403]
+
+---
+### Time, Work, Speed
+[cite_start]Examples related to the number of workers and the time taken to finish a job, or the time taken to cover a distance and the speed of a vehicle, are often examples of inverse variation. [cite: 1416, 1417]
+
+---
+**Practice Set 7.3**
+
+1.  [cite_start]Which of the following statements are of inverse variation? [cite: 1448]
+    (1) [cite_start]The number of workers on a job and the time taken by them to complete the job. [cite: 1449]
+    (2) [cite_start]The number of pipes of the same size to fill a tank and the time taken by them to fill the tank. [cite: 1450]
+    (3) [cite_start]Petrol filled in the tank of a vehicle and its cost. [cite: 1451]
+    (4) [cite_start]Area of a circle and its radius. [cite: 1451]
+
+2.  [cite_start]If 15 workers can build a wall in 48 hours, how many workers will be required to do the same work in 30 hours? [cite: 1452]
+
+3.  120 bags of half-litre milk can be filled by a machine within 3 minutes. [cite_start]Find the time to fill 1800 such bags. [cite: 1453]
+
+4.  A car with a speed of 60 km/hr takes 8 hours to travel some distance. [cite_start]What should be the increase in speed if the same distance is to be covered in $7\frac{1}{2}$ hours? [cite: 1454, 1455]
+
+---
+### **Answers**
+
+* **Practice Set 7.1**
+    * [cite_start]1. (1) $c \propto r$ (2) $l \propto d$ [cite: 1457]
+    * [cite_start]2. $x=7$, $x=20$, $y=96$ [cite: 1457]
+    * [cite_start]4. $m=7$, $n=26$ and 5 [cite: 1458]
+    * [cite_start]5. $k=6$, $y=6\sqrt{x}$ [cite: 1459]
+    * [cite_start]6. ₹4250 [cite: 1459]
+
+* **Practice Set 7.2**
+    * [cite_start]1. Number of workers: 15 and 5 respectively, Days: 18 [cite: 1460]
+    * [cite_start]2. (1) $k=60, pq=60$ (2) $k=60, zw=60$ (3) $k=100, st^2=100$ (4) $k=45, x\sqrt{y}=45$ [cite: 1462, 1463, 1464, 1465]
+    * [cite_start]3. 18 boxes [cite: 1466]
+    * [cite_start]6. $y=7.5$ [cite: 1468]
+
+* **Practice Set 7.3**
+    * [cite_start]1. Inverse variation: (1), (2) [cite: 1467]
+    * [cite_start]2. 24 workers [cite: 1469]
+    * [cite_start]3. 45 minutes [cite: 1467]
+    * [cite_start]4. 4 km/hr [cite: 1470]
