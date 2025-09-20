@@ -1,0 +1,127 @@
+---------------------------------
+### 5. Expansion formulae
+---------------------------------
+
+**Let's recall.**
+
+We have studied the following expansion formulae in the previous standard:
+(i)   [cite_start]$(a+b)^2 = a^2 + 2ab + b^2$ [cite: 329]
+(ii)  [cite_start]$(a-b)^2 = a^2 - 2ab + b^2$ [cite: 329]
+(iii) [cite_start]$(a+b)(a-b) = a^2 - b^2$ [cite: 329]
+
+---
+**Let's learn.**
+
+### (I) Expansion of $(x+a)(x+b)$
+$(x+a)$ and $(x+b)$ are binomials with one common term. [cite_start]Let us multiply them. [cite: 357]
+[cite_start]$(x+a)(x+b) = x(x+b) + a(x+b)$ [cite: 358]
+[cite_start]$= x^2 + bx + ax + ab$ [cite: 358]
+[cite_start]$= x^2 + (a+b)x + ab$ [cite: 359]
+
+[cite_start]**Formula: $(x+a)(x+b) = x^2 + (a+b)x + ab$** [cite: 360]
+
+---
+**Practice Set 5.1**
+
+1.  **Expand.**
+    (1) [cite_start]$(a+2)(a-1)$ [cite: 369]
+    (2) [cite_start]$(m-4)(m+6)$ [cite: 371]
+    (3) [cite_start]$(p+8)(p-3)$ [cite: 372]
+    (4) [cite_start]$(13+x)(13-x)$ [cite: 370]
+    (5) [cite_start]$(3x+4y)(3x+5y)$ [cite: 373]
+    (6) [cite_start]$(9x-5t)(9x+3t)$ [cite: 373]
+    (7) [cite_start]$(m+\frac{2}{3})(m-\frac{7}{3})$ [cite: 370]
+    (8) [cite_start]$(x+\frac{1}{x})(x-\frac{1}{x})$ [cite: 375]
+    (9) [cite_start]$(\frac{1}{y}+4)(\frac{1}{y}-9)$ [cite: 374]
+
+---
+### (II) Expansion of $(a+b)^3$
+[cite_start]$(a+b)^3 = (a+b)(a+b)^2$ [cite: 378]
+[cite_start]$= (a+b)(a^2 + 2ab + b^2)$ [cite: 379]
+[cite_start]$= a(a^2 + 2ab + b^2) + b(a^2 + 2ab + b^2)$ [cite: 380]
+[cite_start]$= a^3 + 2a^2b + ab^2 + a^2b + 2ab^2 + b^3$ [cite: 381]
+[cite_start]$= a^3 + 3a^2b + 3ab^2 + b^3$ [cite: 382]
+
+[cite_start]**Formula: $(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$** [cite: 383]
+
+---
+**Practice Set 5.2**
+
+1.  **Expand.**
+    (1) [cite_start]$(k+4)^3$ [cite: 400]
+    (2) [cite_start]$(7x+8y)^3$ [cite: 402]
+    (3) [cite_start]$(7+m)^3$ [cite: 403]
+    (4) [cite_start]$(52)^3$ [cite: 405]
+    (5) [cite_start]$(101)^3$ [cite: 401]
+    (6) [cite_start]$(x+\frac{1}{x})^3$ [cite: 402]
+    (7) [cite_start]$(2m+\frac{1}{5})^3$ [cite: 404]
+    (8) [cite_start]$(\frac{5x}{y}+\frac{y}{5x})^3$ [cite: 405]
+
+---
+### (III) Expansion of $(a-b)^3$
+[cite_start]$(a-b)^3 = (a-b)(a-b)^2$ [cite: 410]
+[cite_start]$= (a-b)(a^2 - 2ab + b^2)$ [cite: 411]
+[cite_start]$= a(a^2 - 2ab + b^2) - b(a^2 - 2ab + b^2)$ [cite: 412]
+[cite_start]$= a^3 - 2a^2b + ab^2 - a^2b + 2ab^2 - b^3$ [cite: 414]
+[cite_start]$= a^3 - 3a^2b + 3ab^2 - b^3$ [cite: 415]
+
+[cite_start]**Formula: $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$** [cite: 416]
+
+---
+**Practice Set 5.3**
+
+1.  **Expand.**
+    (1) [cite_start]$(2m-5)^3$ [cite: 443]
+    (2) [cite_start]$(4-p)^3$ [cite: 444]
+    (3) [cite_start]$(7x-9y)^3$ [cite: 447]
+    (4) [cite_start]$(58)^3$ [cite: 447]
+    (5) [cite_start]$(198)^3$ [cite: 445]
+    (6) [cite_start]$(2p-\frac{1}{2p})^3$ [cite: 448]
+    (7) [cite_start]$(1-\frac{1}{a})^3$ [cite: 448]
+    (8) [cite_start]$(\frac{x}{3}-\frac{3}{x})^3$ [cite: 448]
+
+2.  **Simplify.**
+    (1) [cite_start]$(2a+b)^3 - (2a-b)^3$ [cite: 449]
+    (2) [cite_start]$(3r-2k)^3 + (3r+2k)^3$ [cite: 451]
+    (3) [cite_start]$(4a-3)^3 - (4a+3)^3$ [cite: 450]
+    (4) [cite_start]$(5x-7y)^3 + (5x+7y)^3$ [cite: 452]
+
+---
+### (IV) Expansion of $(a+b+c)^2$
+[cite_start]$(a+b+c)^2 = (a+b+c)(a+b+c)$ [cite: 457]
+[cite_start]$= a(a+b+c) + b(a+b+c) + c(a+b+c)$ [cite: 458]
+[cite_start]$= a^2 + ab + ac + ab + b^2 + bc + ac + bc + c^2$ [cite: 459]
+[cite_start]$= a^2 + b^2 + c^2 + 2ab + 2bc + 2ac$ [cite: 460]
+
+[cite_start]**Formula: $(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ac$** [cite: 461]
+
+---
+**Practice Set 5.4**
+
+1.  **Expand.**
+    (1) [cite_start]$(2p+q+5)^2$ [cite: 479]
+    (2) [cite_start]$(m+2n+3r)^2$ [cite: 482]
+    (3) [cite_start]$(3x+4y-5p)^2$ [cite: 480]
+    (4) [cite_start]$(7m-3n-4k)^2$ [cite: 483]
+
+2.  **Simplify.**
+    (1) [cite_start]$(x-2y+3)^2 + (x+2y-3)^2$ [cite: 486]
+    (2) [cite_start]$(3k-4r-2m)^2 - (3k+4r-2m)^2$ [cite: 487]
+    (3) [cite_start]$(7a-6b+5c)^2 + (7a+6b-5c)^2$ [cite: 488]
+
+---
+### Answers
+
+* **Practice Set 5.1**
+    (1) [cite_start]$a^2+a-2$ [cite: 491] (2) [cite_start]$m^2+2m-24$ [cite: 492] (3) [cite_start]$p^2+5p-24$ [cite: 493] (4) [cite_start]$169-x^2$ [cite: 494, 495] (5) [cite_start]$9x^2+27xy+20y^2$ [cite: 497] (6) [cite_start]$81x^2-18xt-15t^2$ [cite: 497] (7) [cite_start]$m^2-\frac{5}{3}m-\frac{14}{9}$ [cite: 496] (8) [cite_start]$x^2-\frac{1}{x^2}$ [cite: 498, 499] (9) [cite_start]$\frac{1}{y^2}-\frac{5}{y}-36$ [cite: 500]
+
+* **Practice Set 5.2**
+    (1) [cite_start]$k^3+12k^2+48k+64$ [cite: 501] (2) [cite_start]$343x^3+1176x^2y+1344xy^2+512y^3$ [cite: 501] (3) [cite_start]$343+147m+21m^2+m^3$ [cite: 502] (4) [cite_start]140608 [cite: 502] (5) [cite_start]1030301 [cite: 503] (6) [cite_start]$x^3+3x+\frac{3}{x}+\frac{1}{x^3}$ [cite: 504]
+
+* **Practice Set 5.3**
+    (1) [cite_start]$8m^3-60m^2+150m-125$ [cite: 505] (2) [cite_start]$64-48p+12p^2-p^3$ [cite: 506] (3) [cite_start]$343x^3-1323x^2y+1701xy^2-729y^3$ [cite: 507] (4) [cite_start]1,95,112 [cite: 507] (5) [cite_start]77,62,392 [cite: 508] (6) [cite_start]$8p^3-6p+\frac{3}{2p}-\frac{1}{8p^3}$ [cite: 513] (7) [cite_start]$1-\frac{3}{a}+\frac{3}{a^2}-\frac{1}{a^3}$ [cite: 509]
+    (Simplify) [cite_start](1) $24a^2b+2b^3$ [cite: 510] (2) [cite_start]$54r^3+72rk^2$ [cite: 515] (3) [cite_start]$-288a^2-54$ [cite: 511] (4) [cite_start]$250x^3+1470xy^2$ [cite: 515]
+
+* **Practice Set 5.4**
+    (1) [cite_start]$4p^2+q^2+25+4pq+10q+20p$ [cite: 512] (2) [cite_start]$m^2+4n^2+9r^2+4mn+12nr+6mr$ [cite: 516] (3) [cite_start]$9x^2+16y^2+25p^2+24xy-40py-30px$ [cite: 517]
+    (Simplify) [cite_start](1) $2x^2+8y^2+18-24y$ [cite: 519] (2) [cite_start]$32rm-48kr$ [cite: 519] (3) [cite_start]$98a^2+72b^2+50c^2-120bc$ [cite: 519]
