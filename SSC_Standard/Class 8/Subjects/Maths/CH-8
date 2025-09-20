@@ -1,0 +1,113 @@
+---------------------------------------------
+### 8. Quadrilateral: Constructions and Types
+---------------------------------------------
+
+**Let's learn.**
+
+### Construction of a Quadrilateral
+
+[cite_start]A quadrilateral has 10 elements: 4 sides, 4 angles, and 2 diagonals. [cite: 407, 408] [cite_start]To construct a unique quadrilateral, you need to know the measures of 5 specific elements. [cite: 415] [cite_start]The construction is based on dividing the quadrilateral into triangles and constructing them first. [cite: 415]
+
+**Case I: Four sides and one diagonal are given.**
+* [cite_start]**Method**: The given diagonal divides the quadrilateral into two triangles. [cite: 430] [cite_start]Since all three sides of each triangle are known, you can construct both triangles to form the quadrilateral. [cite: 430, 432]
+
+**Case II: Three sides and two diagonals are given.**
+* [cite_start]**Method**: The given sides and diagonals form two triangles whose sides are all known. [cite: 441] [cite_start]Construct these two triangles sharing a common vertex to form the quadrilateral. [cite: 442]
+
+**Case III: Two adjacent sides and any three angles are given.**
+* **Method**: Draw one of the given sides. [cite_start]At its endpoints, draw rays at the given angles. [cite: 456] On one of the new rays, mark the length of the second given side. [cite_start]From this new point, draw a ray at the third given angle. [cite: 456] [cite_start]The intersection of the rays will form the fourth vertex. [cite: 456]
+
+**Case IV: Three sides and the two angles included by them are given.**
+* [cite_start]**Method**: Draw the middle segment of the three given sides. [cite: 471] [cite_start]At its endpoints, construct the two given included angles. [cite: 471] [cite_start]Mark off the lengths of the other two sides along the new rays to find the remaining vertices. [cite: 480]
+
+---
+**Practice Set 8.1**
+
+1.  Construct the following quadrilaterals with the given measures.
+    * (1) [cite_start]In ☐MORE, $l(MO)=5.8$ cm, $l(OR)=4.4$ cm, $m\angle M=58^{\circ}$, $m\angle O=105^{\circ}$, $m\angle R=90^{\circ}$. [cite: 486]
+    * (2) [cite_start]Construct ☐DEFG such that $l(DE)=4.5$ cm, $l(EF)=6.5$ cm, $l(DG)=5.5$ cm, $l(DF)=7.2$ cm, $l(EG)=7.8$ cm. [cite: 487]
+    * (3) [cite_start]In ☐ABCD, $l(AB)=6.4$ cm, $l(BC)=4.8$ cm, $m\angle A=70^{\circ}$, $m\angle B=50^{\circ}$, $m\angle C=140^{\circ}$. [cite: 488]
+    * (4) [cite_start]Construct ☐LMNO such that $l(LM)=l(LO)=6$ cm, $l(ON)=l(NM)=4.5$ cm, $l(OM)=7.5$ cm. [cite: 489]
+
+---
+### Types of Quadrilaterals
+
+#### **Rectangle**
+[cite_start]A rectangle is a quadrilateral where all angles are right angles. [cite: 495]
+* **Properties**:
+    * [cite_start]Opposite sides are congruent. [cite: 522]
+    * [cite_start]Diagonals are congruent. [cite: 523]
+    * [cite_start]Diagonals bisect each other. [cite: 524]
+
+#### **Square**
+[cite_start]A square is a quadrilateral where all sides and all angles are congruent. [cite: 526]
+* **Properties**:
+    * [cite_start]Diagonals are congruent. [cite: 541]
+    * [cite_start]Diagonals bisect each other. [cite: 542]
+    * [cite_start]Diagonals are perpendicular to each other. [cite: 543]
+    * [cite_start]Diagonals bisect the opposite angles. [cite: 544]
+
+#### **Rhombus**
+[cite_start]A rhombus is a quadrilateral where all sides are of equal length (congruent). [cite: 547, 548]
+* **Properties**:
+    * [cite_start]Opposite angles are congruent. [cite: 564]
+    * [cite_start]Diagonals bisect the opposite angles. [cite: 565]
+    * [cite_start]Diagonals bisect each other and are perpendicular to each other. [cite: 566]
+
+---
+**Practice Set 8.2**
+
+1.  [cite_start]Draw a rectangle ABCD such that $l(AB)=6.0$ cm and $l(BC)=4.5$ cm. [cite: 622]
+2.  [cite_start]Draw a square WXYZ with side 5.2 cm. [cite: 623]
+3.  [cite_start]Draw a rhombus KLMN such that its side is 4 cm and $m\angle K=75^{\circ}$. [cite: 624]
+4.  [cite_start]If the diagonal of a rectangle is 26 cm and one side is 24 cm, find the other side. [cite: 625]
+5.  Lengths of diagonals of a rhombus ABCD are 16 cm and 12 cm. [cite_start]Find the side and perimeter of the rhombus. [cite: 627, 628]
+6.  [cite_start]Find the length of the diagonal of a square with side 8 cm. [cite: 629]
+7.  The measure of one angle of a rhombus is $50^{\circ}$. [cite_start]Find the measures of the remaining three angles. [cite: 630]
+
+---
+#### **Parallelogram**
+[cite_start]A parallelogram is a quadrilateral with opposite sides parallel. [cite: 632]
+* **Properties**:
+    * [cite_start]Adjacent angles are supplementary. [cite: 642]
+    * [cite_start]Opposite angles are congruent. [cite: 658]
+    * [cite_start]Opposite sides are congruent. [cite: 659]
+    * [cite_start]Diagonals bisect each other. [cite: 660]
+
+#### **Trapezium**
+[cite_start]A trapezium is a quadrilateral where only one pair of opposite sides is parallel. [cite: 664]
+* [cite_start]**Property**: Out of four pairs of adjacent angles, two pairs are supplementary. [cite: 675]
+
+#### **Kite**
+[cite_start]A kite is a quadrilateral in which one diagonal is the perpendicular bisector of the other. [cite: 677, 679]
+* **Properties**:
+    * [cite_start]Two pairs of adjacent sides are congruent. [cite: 689]
+    * [cite_start]One pair of opposite angles is congruent. [cite: 690]
+
+---
+**Practice Set 8.3**
+
+1.  Measures of opposite angles of a parallelogram are $(3x-2)^{\circ}$ and $(50-x)^{\circ}$. [cite_start]Find the measure of each angle. [cite: 740, 741]
+2.  [cite_start]Referring to the figure of parallelogram WXYZ, answer the questions. [cite: 743]
+    (1) [cite_start]If $l(WZ)=4.5$ cm, then $l(XY)=?$ [cite: 746]
+    (2) [cite_start]If $l(YZ)=8.2$ cm, then $l(XW)=?$ [cite: 747]
+    (3) [cite_start]If $l(OX)=2.5$ cm, then $l(OZ)=?$ [cite: 748]
+    (4) [cite_start]If $l(WO)=3.3$ cm, then $l(WY)=?$ [cite: 749]
+    (5) [cite_start]If $m\angle WZY=120^{\circ}$, then $m\angle WXY=?$ and $m\angle XWZ=?$ [cite: 754]
+3.  [cite_start]Construct a parallelogram ABCD such that $l(BC)=7$ cm, $m\angle ABC=40^{\circ}$, $l(AB)=3$ cm. [cite: 755]
+4.  The ratio of consecutive angles of a quadrilateral is 1:2:3:4. [cite_start]Find the measure of each angle and state the type of quadrilateral. [cite: 756, 757]
+5.  [cite_start]Construct ☐BARC such that $l(BA)=l(BC)=4.2$ cm, $l(AC)=6.0$ cm, $l(AR)=l(CR)=5.6$ cm. [cite: 758]
+
+---
+### **Answers**
+
+* **Practice Set 8.2**
+    * [cite_start]4. 10 cm [cite: 763]
+    * [cite_start]5. side 10 cm, perimeter 40 cm. [cite: 763]
+    * [cite_start]6. $\sqrt{128}$ cm [cite: 766]
+    * [cite_start]7. $130^{\circ}$, $50^{\circ}$, $130^{\circ}$ [cite: 766]
+
+* **Practice Set 8.3**
+    * [cite_start]1. $37^{\circ}$, $143^{\circ}$, $37^{\circ}$, $143^{\circ}$ [cite: 765]
+    * [cite_start]2. (1) 4.5 cm (2) 8.2 cm (3) 2.5 cm (4) 6.6 cm (5) $120^{\circ}$, $60^{\circ}$ [cite: 767]
+    * [cite_start]4. $36^{\circ}$, $72^{\circ}$, $108^{\circ}$, $144^{\circ}$; it is a trapezium. [cite: 768]
