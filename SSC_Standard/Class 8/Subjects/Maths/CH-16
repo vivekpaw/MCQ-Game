@@ -1,0 +1,88 @@
+---------------------------------
+### 16. Surface Area and Volume
+---------------------------------
+
+**Let's recall.**
+
+* [cite_start]**Total surface area of a cuboid** = $2(lb + bh + lh)$ [cite: 3684]
+* [cite_start]**Total surface area of a cube** = $6l^2$ [cite: 3684]
+
+---
+**Let's learn.**
+
+### Volume
+[cite_start]The measure of the space occupied by a solid object is called its **volume**. [cite: 3694] [cite_start]The standard unit of volume is the cubic centimeter ($1 \text{ cm}^3$ or 1 cc). [cite: 3697, 3698]
+
+#### **Volume of a Cuboid**
+The volume of a cuboid is the product of its length, breadth, and height.
+* [cite_start]**Formula**: Volume = $l \times b \times h$ [cite: 3713]
+
+#### **Volume of a Cube**
+The volume of a cube is the cube of its side length.
+* [cite_start]**Formula**: Volume = $l^3$ [cite: 3725]
+
+#### **Volume of Liquid**
+The space occupied by a liquid in a container is its volume. The standard units are millilitres (ml) and litres (l).
+* [cite_start]**Conversion**: $1 \text{ litre} = 1000 \text{ ml} = 1000 \text{ cc}$[cite: 3734, 3735]. [cite_start]This means $1 \text{ cc} = 1 \text{ ml}$. [cite: 3735]
+
+---
+**Practice Set 16.1**
+
+1.  [cite_start]Find the volume of a box if its length, breadth, and height are 20 cm, 10.5 cm, and 8 cm respectively. [cite: 3781]
+2.  A cuboid-shaped soap bar has a volume of 150 cc. [cite_start]Find its thickness if its length is 10 cm and breadth is 5 cm. [cite: 3782, 3783]
+3.  [cite_start]How many bricks of length 25 cm, breadth 15 cm, and height 10 cm are required to build a wall of length 6 m, height 2.5 m, and breadth 0.5 m? [cite: 3784]
+4.  For rainwater harvesting, a tank of length 10 m, breadth 6 m, and depth 3 m is built. What is the capacity of the tank? [cite_start]How many litres of water can it hold? [cite: 3786, 3787]
+
+---
+### Surface Area and Volume of a Cylinder
+
+#### **Surface Area of a Cylinder**
+[cite_start]The area of the curved vertical surface of a cylinder can be found by imagining it "unwrapped" into a rectangle. [cite: 3798, 3799]
+* [cite_start]**Curved Surface Area** = Circumference of base × height = $2\pi rh$ [cite: 3802]
+* **Total Surface Area** (of a closed cylinder) = Curved Surface Area + 2 × Area of circular bases
+    * [cite_start]**Formula**: Total Surface Area = $2\pi rh + 2\pi r^2 = 2\pi r(h+r)$ [cite: 3807]
+
+---
+**Practice Set 16.2**
+
+1.  For each cylinder below, find the curved surface area and total surface area.
+    * (1) [cite_start]$r=7 \text{ cm}, h=10 \text{ cm}$ [cite: 3835]
+    * (2) [cite_start]$r=1.4 \text{ cm}, h=2.1 \text{ cm}$ [cite: 3836]
+    * (3) [cite_start]$r=2.5 \text{ cm}, h=7 \text{ cm}$ [cite: 3836]
+
+2.  Find the total surface area of a closed cylindrical drum if its diameter is 50 cm and height is 45 cm. ($\pi=3.14$) [cite_start][cite: 3839, 3840]
+3.  [cite_start]Find the area of the base and the radius of a cylinder if its curved surface area is 660 sq cm and height is 21 cm. [cite: 3842]
+4.  [cite_start]Find the area of the sheet required to make a cylindrical container which is open at one side, with a diameter of 28 cm and a height of 20 cm. [cite: 3843]
+
+---
+#### **Volume of a Cylinder**
+The volume of any prism is the area of its base multiplied by its height. [cite_start]Since a cylinder has a circular base, its volume is: [cite: 3848]
+* [cite_start]**Formula**: Volume = $\pi r^2h$ [cite: 3849]
+
+---
+**Practice Set 16.3**
+
+1.  Find the volume of the cylinder if height (h) and radius of the base (r) are as given below.
+    * (1) [cite_start]$r=10.5 \text{ cm}, h=8 \text{ cm}$ [cite: 3787, 3788]
+    * (2) [cite_start]$r=2.5 \text{ m}, h=7 \text{ m}$ [cite: 3880]
+2.  [cite_start]How much iron is needed to make a rod of length 90 cm and diameter 1.4 cm? [cite: 3882]
+3.  [cite_start]How much water will a tank hold if its interior diameter is 1.6 m and its depth is 0.7 m? [cite: 3883, 3884]
+4.  [cite_start]Find the volume of a cylinder if the circumference of its base is 132 cm and its height is 25 cm. [cite: 3885]
+
+---
+### **Answers**
+
+* **Practice Set 16.1**:
+    1.  [cite_start]1680 c cm [cite: 3895]
+    2.  [cite_start]3 cm [cite: 3896]
+    3.  [cite_start]2000 bricks [cite: 3897]
+    4.  [cite_start]1,80,000 litre [cite: 3898]
+* **Practice Set 16.2**:
+    1.  [cite_start](1) 440 sq cm, 748 sq cm [cite: 3900] (2) [cite_start]18.48 sq cm, 30.80 sq cm [cite: 3901] (3) [cite_start]110 sq cm, 149.29 sq cm [cite: 3902]
+    2.  [cite_start]10,990 sq cm [cite: 3905]
+    3.  [cite_start]5 cm, 78.50 sq cm [cite: 3905]
+* **Practice Set 16.3**:
+    1.  [cite_start](1) 2772 c cm [cite: 3908] (2) [cite_start]137.5 c m [cite: 3909] (3) [cite_start]277.2 c cm [cite: 3909]
+    2.  [cite_start]138.6 c cm [cite: 3910]
+    3.  [cite_start]1408 litre [cite: 3911]
+    4.  [cite_start]34650 c cm [cite: 3912]
