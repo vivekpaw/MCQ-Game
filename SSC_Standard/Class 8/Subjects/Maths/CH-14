@@ -1,0 +1,84 @@
+-----------------------------
+### 14. Compound Interest
+-----------------------------
+
+**Let's recall.**
+
+**Simple Interest** is the additional money paid on a loan or investment. It is calculated using the formula:
+* [cite_start]**Formula**: $I = \frac{PNR}{100}$ [cite: 281]
+    * [cite_start]Where $I$ = Interest, $P$ = Principal, $N$ = Number of years, and $R$ = Rate of interest p.c.p.a. [cite: 282]
+
+---
+**Let's learn.**
+
+### Compound Interest
+**Compound Interest** is calculated on the principal amount plus the accumulated interest from previous periods. [cite_start]If a borrower fails to pay the interest for one year, the bank adds that interest to the principal, and the next year's interest is calculated on this new, larger principal. [cite: 294, 295, 296]
+
+The formula to calculate the final amount (A) with compound interest is:
+* [cite_start]**Formula**: $A = P \left(1 + \frac{R}{100}\right)^N$ [cite: 322]
+    * [cite_start]Where $A$ = Amount, $P$ = Principal, $R$ = Rate of interest p.c.p.a., and $N$ = Number of years. [cite: 321]
+* [cite_start]**Compound Interest (C.I.)** = Amount (A) - Principal (P) [cite: 330, 332]
+
+---
+**Practice Set 14.1**
+
+1.  Find the amount and the compound interest for the following:
+| No. | Principal (₹) | Rate (p.c.p.a.) | Duration (years) |
+|-----|---------------|-----------------|------------------|
+| 1   | 2000          | 5               | 2                |
+| 2   | 5000          | 8               | 3                |
+| 3   | 4000          | 7.5             | 2                |
+
+2.  Sameerrao has taken a loan of ₹12,500 at a rate of 12 p.c.p.a. for 3 years. [cite_start]If the interest is compounded annually, how much should he pay to clear his loan? [cite: 337, 339]
+
+3.  To start a business, Shalaka has taken a loan of ₹8000 at a rate of $10\frac{1}{2}$ p.c.p.a. [cite_start]After two years, how much compound interest will she have to pay? [cite: 340, 342]
+
+---
+### Application of the Compound Interest Formula
+[cite_start]The compound interest formula is also used in other fields, such as calculating population growth or the **depreciation** (reduction in value) of an asset like a vehicle or machine. [cite: 357, 358, 359] [cite_start]For depreciation, the rate (R) is taken as negative because the value decreases. [cite: 364]
+
+**Example: Population Growth**
+The population of a city was 2,50,000 in 2010 and increases at a compounding rate of 8% per year. [cite_start]Find the population in 2012. [cite: 365, 366]
+* **Solution**: Here, $P = 2,50,000$, $R = 8$, $N = 2$.
+    * [cite_start]$A = 250000 \times (1 + \frac{8}{100})^2 = 2,91,600$. [cite: 372]
+    * [cite_start]The population in 2012 will be 2,91,600. [cite: 374]
+
+**Example: Depreciation**
+Rehana purchased a scooter for ₹60,000 in 2015. Its value falls by 20% every year. [cite_start]What will be its price after 2 years? [cite: 376, 377]
+* **Solution**: Here, $P = 60,000$, $R = -20$ (since it's depreciation), $N = 2$.
+    * [cite_start]$A = 60000 \times (1 - \frac{20}{100})^2 = ₹38,400$. [cite: 384, 385]
+    * [cite_start]The price after two years will be ₹38,400. [cite: 386]
+
+---
+**Practice Set 14.2**
+
+1.  The number of workers on a flyover bridge construction was initially 320. The number increased by 25% every year. [cite_start]Find the number of workers after 2 years. [cite: 407, 408]
+2.  A shepherd has 200 sheep. [cite_start]If the number of sheep increases by 8% every year, find the number of sheep with him after 3 years. [cite: 409]
+3.  In a forest, there are 40,000 trees. [cite_start]Find the expected number of trees after 3 years if the objective is to increase the number at a rate of 5% per year. [cite: 410]
+4.  The cost price of a machine is ₹2,50,000. [cite_start]If the rate of depreciation is 10% per year, find the depreciation in the price of the machine after two years. [cite: 411]
+5.  [cite_start]Find the compound interest if the amount of a certain principal after two years is ₹4036.80 at the rate of 16 p.c.p.a. [cite: 412]
+6.  A loan of ₹15,000 was taken on compound interest. [cite_start]If the rate is 12 p.c.p.a., find the amount to settle the loan after 3 years. [cite: 413, 414]
+7.  A principal amounts to ₹13,924 in 2 years by compound interest at 18 p.c.p.a. [cite_start]Find the principal. [cite: 415]
+8.  The population of a suburb is 16,000. [cite_start]Find the rate of increase if the population after two years is 17,640. [cite: 416]
+9.  [cite_start]In how many years will ₹700 amount to ₹847 at a compound interest rate of 10 p.c.p.a.? [cite: 417]
+10. Find the difference between simple and compound interest on ₹20,000 at 8 p.c.p.a. for 2 years.
+
+---
+### **Answers**
+
+* **Practice Set 14.1**
+    * [cite_start]1. (1) Amount: ₹2205, C.I.: ₹205 (2) Amount: ₹6298.56, C.I.: ₹1298.56 (3) Amount: ₹4622.5, C.I.: ₹622.5 [cite: 419]
+    * [cite_start]2. ₹17,561.60 [cite: 419]
+    * [cite_start]3. ₹1768.2 [cite: 419]
+
+* **Practice Set 14.2**
+    * [cite_start]1. 500 workers [cite: 419]
+    * [cite_start]2. 252 sheep [cite: 419]
+    * [cite_start]3. 46,305 trees [cite: 419]
+    * [cite_start]4. ₹47,500 [cite: 419]
+    * [cite_start]5. ₹1036.80 [cite: 419]
+    * [cite_start]6. ₹21,073.92 [cite: 419]
+    * [cite_start]7. ₹10,000 [cite: 419]
+    * [cite_start]8. 5 p.c.p.a [cite: 419]
+    * [cite_start]9. 2 years [cite: 419]
+    * [cite_start]10. ₹128 [cite: 419]
