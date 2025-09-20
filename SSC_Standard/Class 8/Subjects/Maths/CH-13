@@ -1,0 +1,63 @@
+---------------------------------
+### 13. Congruence of Triangles
+---------------------------------
+
+**Let's recall.**
+
+* [cite_start]Figures that exactly coincide with each other are called **congruent figures**. [cite: 901]
+* [cite_start]Line segments of equal length are congruent. [cite: 902]
+* [cite_start]Angles of equal measure are congruent. [cite: 903]
+
+---
+**Let's learn.**
+
+### Congruence of Triangles
+
+[cite_start]Two triangles are congruent if their vertices can be matched in a one-to-one correspondence such that all corresponding sides and angles are equal. [cite: 907, 917, 918]
+
+[cite_start]If $\Delta ABC$ is congruent to $\Delta PQR$ under the correspondence $A \leftrightarrow P, B \leftrightarrow Q, C \leftrightarrow R$, it is written as $\Delta ABC \cong \Delta PQR$. [cite: 920] This implies six congruences:
+* $\angle A \cong \angle P$
+* $\angle B \cong \angle Q$
+* $\angle C \cong \angle R$
+* seg $AB \cong$ seg $PQ$
+* seg $BC \cong$ seg $QR$
+* [cite_start]seg $CA \cong$ seg $RP$ [cite: 919]
+
+[cite_start]The order of vertices in the congruence notation is crucial as it indicates the correct correspondence. [cite: 922]
+
+---
+### Tests for Congruence of Triangles
+
+[cite_start]To prove that two triangles are congruent, it is not necessary to show that all six corresponding parts are congruent. [cite: 963] [cite_start]We can use tests that require proving only three specific corresponding parts are congruent. [cite: 964, 965]
+
+1.  [cite_start]**SAS (Side-Angle-Side) Test:** If two sides and the included angle of one triangle are congruent to the two corresponding sides and included angle of another triangle, the triangles are congruent. [cite: 968, 1086]
+2.  [cite_start]**SSS (Side-Side-Side) Test:** If three sides of one triangle are congruent to the three corresponding sides of another triangle, the triangles are congruent. [cite: 980, 1087]
+3.  [cite_start]**ASA (Angle-Side-Angle) Test:** If two angles and the included side of one triangle are congruent to the two corresponding angles and included side of another triangle, the triangles are congruent. [cite: 990, 1088]
+4.  [cite_start]**AAS (Angle-Angle-Side) Test:** If two angles and a non-included side of one triangle are congruent to the corresponding angles and side of another triangle, the triangles are congruent. [cite: 1000, 1089]
+5.  [cite_start]**Hypotenuse-Side Test:** If the hypotenuse and one side of a right-angled triangle are congruent to the hypotenuse and corresponding side of another right-angled triangle, the triangles are congruent. [cite: 1004, 1090]
+
+---
+**Practice Set 13.1**
+
+In each pair of triangles in the figures, parts bearing identical marks are congruent. [cite_start]State the test and the correspondence of vertices by which the triangles in each pair are congruent. [cite: 1055, 1056]
+
+---
+**Practice Set 13.2**
+
+1.  In each pair of triangles given, parts shown by identical marks are congruent. State the test and the one-to-one correspondence of vertices by which the triangles are congruent. [cite_start]Also, list the remaining congruent parts. [cite: 1126, 1127]
+2.  In the adjacent figure, seg $AD \cong$ seg $EC$. [cite_start]What additional information is needed to show that $\Delta ABD$ and $\Delta EBC$ will be congruent by the A-A-S test? [cite: 1143]
+
+---
+### **Answers**
+
+* **Practice Set 13.1**
+    * (i) [cite_start]SAS, $XWZ \leftrightarrow YWZ$ [cite: 1152]
+    * (ii) [cite_start]Hypotenuse-side test, $KJI \leftrightarrow LJI$ [cite: 1153]
+    * (iii) [cite_start]SSS, $HEG \leftrightarrow FGE$ [cite: 1152]
+    * (iv) [cite_start]ASA, $SMA \leftrightarrow OPT$ [cite: 1152, 1154]
+    * (v) [cite_start]ASA or SAA, $MTN \leftrightarrow STN$ [cite: 1154]
+
+* **Practice Set 13.2**
+    * 1. (1) $\Delta MST \cong \Delta TBM$ - Hypotenuse-side test. [cite_start]Remaining parts: side $ST \cong$ side $MB$, $\angle SMT \cong \angle BTM$, $\angle STM \cong \angle BMT$. [cite: 1156]
+    * 1. (2) $\Delta PRQ \cong \Delta TRS$ - SAS test. [cite_start]Remaining parts: side $PQ \cong$ side $TS$, $\angle RPQ \cong \angle RTS$, $\angle PQR \cong \angle TSR$. [cite: 1157, 1161]
+    * 2. $\angle ADB \cong \angle CEB$ and $\angle ABD \cong \angle CBE$; [cite_start]OR $\angle DAB \cong \angle ECB$ and $\angle ABD \cong \angle CBE$. [cite: 1159, 1160]
