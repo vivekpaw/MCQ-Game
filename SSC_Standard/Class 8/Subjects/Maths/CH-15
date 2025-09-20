@@ -1,0 +1,93 @@
+-------------
+### 15. Area
+-------------
+
+**Let's recall.**
+
+Here are some basic area formulas:
+* [cite_start]**Area of a square** = $side^2$ [cite: 1481]
+* [cite_start]**Area of a rectangle** = length × breadth [cite: 1482]
+* [cite_start]**Area of a right-angled triangle** = $\frac{1}{2} \times$ product of sides making the right angle [cite: 1483, 1485, 1487]
+* [cite_start]**Area of a triangle** = $\frac{1}{2} \times$ base × height [cite: 1489, 1490]
+
+---
+**Let's learn.**
+
+### Area of a Parallelogram
+A parallelogram can be rearranged to form a rectangle, showing that its area is calculated similarly. [cite_start]The area of a parallelogram is the product of its base and corresponding height. [cite: 1517]
+
+* **Formula**: Area = base × height
+
+---
+**Practice Set 15.1**
+
+1.  [cite_start]If the base of a parallelogram is 18 cm and its height is 11 cm, find its area. [cite: 1551]
+2.  [cite_start]If the area of a parallelogram is 29.6 sq cm and its base is 8 cm, find its height. [cite: 1552]
+3.  The area of a parallelogram is 83.2 sq cm. [cite_start]If its height is 6.4 cm, find the length of its base. [cite: 1553]
+
+---
+### Area of a Rhombus
+[cite_start]The diagonals of a rhombus are perpendicular bisectors of each other, dividing it into four congruent right-angled triangles. [cite: 1569, 1573]
+
+* [cite_start]**Formula**: Area = $\frac{1}{2} \times$ product of lengths of diagonals [cite: 1584, 1585]
+
+---
+**Practice Set 15.2**
+
+1.  [cite_start]The lengths of the diagonals of a rhombus are 15 cm and 24 cm; find its area. [cite: 1623]
+2.  [cite_start]The lengths of the diagonals of a rhombus are 16.5 cm and 14.2 cm; find its area. [cite: 1624]
+3.  [cite_start]If the perimeter of a rhombus is 100 cm and the length of one diagonal is 48 cm, what is the area of the quadrilateral? [cite: 1625]
+4.  [cite_start]If the length of a diagonal of a rhombus is 30 cm and its area is 240 sq cm, find its perimeter. [cite: 1626]
+
+---
+### Area of a Trapezium
+A trapezium has one pair of parallel sides. Its area is calculated based on the lengths of these parallel sides and the perpendicular distance (height) between them.
+
+* [cite_start]**Formula**: Area = $\frac{1}{2} \times$ (sum of the lengths of parallel sides) × height [cite: 1651, 1652]
+
+---
+**Practice Set 15.3**
+
+1.  In trapezium ABCD, $l(AB) = 13$ cm, $l(DC) = 9$ cm, and $l(AD) = 8$ cm. [cite_start]Find the area of the trapezium. [cite: 1668, 1669, 1673]
+2.  The lengths of the two parallel sides of a trapezium are 8.5 cm and 11.5 cm, and its height is 4.2 cm. [cite_start]Find its area. [cite: 1676]
+
+---
+### Area of a Triangle (Heron's Formula)
+When the height of a triangle is not known, but the lengths of all three sides (a, b, c) are, we can use **Heron's Formula** to find its area.
+
+First, calculate the **semiperimeter (s)**:
+* [cite_start]$s = \frac{a+b+c}{2}$ [cite: 1703]
+
+Then, use the formula:
+* [cite_start]**Formula**: Area = $\sqrt{s(s-a)(s-b)(s-c)}$ [cite: 1704]
+
+---
+**Practice Set 15.4**
+
+1.  The sides of a triangle are 45 cm, 39 cm, and 42 cm. [cite_start]Find its area. [cite: 1755]
+2.  [cite_start]Look at the measures shown in the adjacent figure and find the area of ☐PQRS. [cite: 1759, 1762]
+3.  Some measures are given in the adjacent figure. [cite_start]Find the area of ☐ABCD. [cite: 1767]
+
+---
+### Area of a Circle
+The area of a circle can be found using its radius (r).
+
+* [cite_start]**Formula**: Area = $\pi r^2$ [cite: 1860]
+
+---
+**Practice Set 15.6**
+
+1.  [cite_start]Radii of circles are given below; find their areas: (1) 28 cm, (2) 10.5 cm, (3) 17.5 cm. [cite: 1880]
+2.  [cite_start]Areas of some circles are given below; find their diameters: (1) 176 sq cm, (2) 394.24 sq cm, (3) 12474 sq cm. [cite: 1882]
+3.  The diameter of a circular garden is 42 m. There is a 3.5 m wide road around the garden. [cite_start]Find the area of the road. [cite: 1884]
+4.  [cite_start]Find the area of a circle if its circumference is 88 cm. [cite: 1886]
+
+---
+### **Answers**
+
+* [cite_start]**Practice Set 15.1**: 1. 198 sq cm 2. 3.7 cm 3. 13 cm [cite: 1931]
+* [cite_start]**Practice Set 15.2**: 1. 180 sq cm 2. 117.15 sq cm 3. 336 sq cm 4. 68 cm [cite: 1931]
+* [cite_start]**Practice Set 15.3**: 1. 88 sq cm 2. 42 cm 3. 40 sq cm [cite: 1931]
+* [cite_start]**Practice Set 15.4**: 1. 756 sq cm 2. 690 sq cm 3. 570 sq cm [cite: 1931]
+* [cite_start]**Practice Set 15.5**: 1. 6000 sq m 2. 776 sq m [cite: 1931]
+* [cite_start]**Practice Set 15.6**: 1. (1) 2464 sq cm, (2) 346.5 sq cm, (3) 962.5 sq cm 2. (1) $2\sqrt{56}$ cm, (2) 22.4 cm, (3) 126 cm 3. 500.50 sq m 4. 616 sq cm [cite: 1931]
