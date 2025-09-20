@@ -1,0 +1,103 @@
+---------------------------------------
+### 2. Parallel lines and transversal
+---------------------------------------
+
+**Let's recall.**
+
+[cite_start]The lines in the same plane which do not intersect each other are called **parallel lines**[cite: 587]. [cite_start]The statement 'Line l and line m are parallel lines,' is written as 'line $l \parallel$ line $m$'[cite: 588].
+
+---
+**Let's learn.**
+
+### Transversal
+[cite_start]A **transversal** is a line that intersects two or more given lines in distinct points[cite: 601]. [cite_start]When a transversal intersects two lines, a total of eight angles are formed[cite: 604]. These angles are categorized into different pairs.
+
+
+### Angle Pairs Formed by a Transversal
+* [cite_start]**Corresponding angles**: A pair of angles where the arms on the transversal point in the same direction, and the other arms are on the same side of the transversal[cite: 607].
+* [cite_start]**Interior angles**: A pair of angles that are on the same side of the transversal and are located between the two lines[cite: 617].
+* [cite_start]**Alternate angles**: A pair of angles on opposite sides of the transversal, with their arms on the transversal pointing in opposite directions[cite: 633]. These can be further divided into:
+    * [cite_start]**Interior alternate angles**: Angles on the inner side of the lines[cite: 638].
+    * [cite_start]**Exterior alternate angles**: Angles on the outer side of the lines[cite: 639].
+
+---
+### Practice Set 2.1
+
+1.  In the adjoining figure, each angle is shown by a letter. [cite_start]Fill in the boxes with the help of the figure[cite: 647].
+        * **Corresponding angles:**
+        * $\angle p$ and ☐
+        * $\angle q$ and ☐
+        * $\angle r$ and ☐
+        * $\angle s$ and ☐
+    * **Interior alternate angles:**
+        * $\angle s$ and ☐
+        * $\angle w$ and ☐
+
+2.  [cite_start]Observe the angles shown in the figure and write the following pairs of angles[cite: 665].
+        * (1) Interior alternate angles
+    * (2) Corresponding angles
+    * (3) Interior angles
+
+---
+**Let's learn.**
+
+### Properties of Angles with Parallel Lines
+
+When a transversal intersects two **parallel lines**, the angles formed have special properties:
+* [cite_start]Pairs of **corresponding angles** are congruent (equal in measure)[cite: 786].
+* [cite_start]Pairs of **alternate angles** (both interior and exterior) are congruent[cite: 788].
+* [cite_start]Pairs of **interior angles** on the same side of the transversal are supplementary (their sum is $180^{\circ}$)[cite: 787].
+
+---
+### Practice Set 2.2
+
+1.  Choose the correct alternative.
+    * (1) In the adjoining figure, if line m || line n and line p is a transversal, find x. [cite_start]The interior angles are given as $3x$ and $x$[cite: 791].
+        (A) $135^{\circ}$ (B) $90^{\circ}$ (C) $45^{\circ}$ (D) $40^{\circ}$
+    * (2) In the adjoining figure, if line a || line b and line l is a transversal, find x. [cite_start]The angles are given as $4x$ and $2x$[cite: 804].
+        (A) $90^{\circ}$ (B) $60^{\circ}$ (C) $45^{\circ}$ (D) $30^{\circ}$
+
+2.  In the adjoining figure, line p || line q. Line t and line s are transversals. [cite_start]Find the measure of $\angle x$ and $\angle y$ using the given angle measures ($40^{\circ}$ and $70^{\circ}$)[cite: 817].
+
+3.  In the adjoining figure, line p || line q and line l || line m. [cite_start]Find measures of $\angle a$, $\angle b$, and $\angle c$ using the given angle ($80^{\circ}$)[cite: 819, 820]. [cite_start]Justify your answers[cite: 820].
+
+4.  In the adjoining figure, line a || line b and line l is a transversal. [cite_start]Find the measures of $\angle x$, $\angle y$, and $\angle z$ using the given information ($105^{\circ}$)[cite: 831, 832].
+
+5.  In the adjoining figure, line p || line l || line q. [cite_start]Find $\angle x$ with the help of the measures given in the figure ($40^{\circ}$ and $30^{\circ}$)[cite: 833, 834].
+
+---
+### Drawing Parallel Lines
+
+[cite_start]**Construction (I):** To draw a line parallel to a given line through a point outside the line using set-squares[cite: 845, 846].
+* **Steps:**
+    1.  [cite_start]Draw line l and take a point P outside of it[cite: 848, 850].
+    2.  [cite_start]Place two set-squares touching each other, with one edge of set-square A close to point P[cite: 851, 856].
+    3.  [cite_start]Draw a line along the edge of the other set-square B[cite: 858]. [cite_start]This new line, m, is parallel to line l[cite: 861].
+
+[cite_start]**Construction (II):** To draw a parallel line to a given line at a specified distance[cite: 876].
+* **Steps (for a distance of 2.5 cm):**
+    1.  [cite_start]Draw a line l and take two points, A and B, on it[cite: 881].
+    2.  [cite_start]Draw lines perpendicular to line l from points A and B[cite: 889].
+    3.  [cite_start]On these perpendiculars, mark points P and Q at a distance of 2.5 cm from A and B, respectively[cite: 892].
+    4.  [cite_start]Draw a line through P and Q. This line is parallel to line l at a distance of 2.5 cm[cite: 893].
+
+---
+### Practice Set 2.3
+
+1.  Draw a line l. Take a point A outside the line. [cite_start]Through point A, draw a line parallel to line l[cite: 895, 896].
+2.  Draw a line l. Take a point T outside the line. [cite_start]Through point T, draw a line parallel to line l[cite: 897, 898].
+3.  Draw a line m. [cite_start]Draw a line n which is parallel to line m at a distance of 4 cm from it[cite: 899].
+
+---
+### Answers
+
+* **Practice Set 2.1**
+    * [cite_start]1. (1) $\angle w$ (2) $\angle x$ (3) $\angle y$ (4) $\angle z$ (5) $\angle x$ (6) $\angle r$ [cite: 902, 906]
+    * [cite_start]2. (1) $\angle c$ and $\angle e$, $\angle b$ and $\angle h$ (2) $\angle a$ and $\angle e$, $\angle b$ and $\angle f$, $\angle c$ and $\angle g$, $\angle d$ and $\angle h$ (3) $\angle c$ and $\angle h$, $\angle b$ and $\angle e$ [cite: 902]
+
+* **Practice Set 2.2**
+    * [cite_start]1. (1) C (2) D [cite: 903]
+    * [cite_start]2. $\angle x=140^{\circ}$, $\angle y=110^{\circ}$ [cite: 903]
+    * [cite_start]3. $\angle a=100^{\circ}$, $\angle b=80^{\circ}$, $\angle c=80^{\circ}$ [cite: 904]
+    * [cite_start]4. $\angle x=105^{\circ}$, $\angle y=105^{\circ}$, $\angle z=75^{\circ}$ [cite: 904]
+    * [cite_start]5. $\angle x=70^{\circ}$ [cite: 904]
