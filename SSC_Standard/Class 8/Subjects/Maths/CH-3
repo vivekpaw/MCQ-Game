@@ -1,0 +1,130 @@
+---------------------------------------
+### 3. Indices and Cube root
+---------------------------------------
+
+**Let's recall.**
+
+[cite_start]In earlier standards, we have learnt about Indices and laws of indices. [cite: 5]
+[cite_start]The product $2 \times 2 \times 2 \times 2 \times 2$ can be expressed as $2^5$, in which 2 is the base, 5 is the index and $2^5$ is the index form of the number. [cite: 6]
+
+[cite_start]**Laws of indices:** If m and n are integers, then: [cite: 7]
+(i)    $a^m \times a^n = a^{m+n}$
+(ii)   $a^m \div a^n = a^{m-n}$
+(iii)  $(a \times b)^m = a^m \times b^m$
+(iv)   $a^0 = 1$
+(v)    $a^{-m} = \frac{1}{a^m}$
+(vi)   $(a^m)^n = a^{mn}$
+(vii)  $(\frac{a}{b})^m = \frac{a^m}{b^m}$
+(viii) $(\frac{a}{b})^{-m} = (\frac{b}{a})^m$
+
+---
+**Let's learn.**
+
+**Meaning of numbers with rational indices**
+
+[cite_start]**(I) Meaning of the numbers when the index is a rational number of the form $\frac{1}{n}$.** [cite: 25, 26]
+
+[cite_start]To show the square of a number, the index is written as 2, and to show the square root of a number, the index is written as $\frac{1}{2}$. [cite: 29, 30, 31]
+[cite_start]For example, the square root of 25 is written as $\sqrt{25}$ using the radical sign. [cite: 33] Using index, it is expressed as $25^{\frac{1}{2}}$. [cite_start]Therefore, $\sqrt{25} = 25^{\frac{1}{2}}$. [cite: 34]
+[cite_start]Similarly, the cube of 'a' is written as $a^3$ and the cube root of 'a' is written as $\sqrt[3]{a}$ or $a^{\frac{1}{3}}$. [cite: 36]
+[cite_start]In general, the $n^{th}$ root of 'a' is expressed as $a^{\frac{1}{n}}$. [cite: 41]
+[cite_start]For example, $128^{\frac{1}{7}}$ is the 7th root of 128, and $900^{\frac{1}{12}}$ is the 12th root of 900. [cite: 42]
+
+---
+**Practice Set 3.1**
+
+1.  [cite_start]**Express the following numbers in index form.** [cite: 45]
+    (1) [cite_start]Fifth root of 13 [cite: 46]
+    (2) [cite_start]Sixth root of 9 [cite: 47]
+    (3) [cite_start]Square root of 256 [cite: 48]
+    (4) [cite_start]Cube root of 17 [cite: 49]
+    (5) [cite_start]Eighth root of 100 [cite: 50]
+    (6) [cite_start]Seventh root of 30 [cite: 51]
+
+2.  [cite_start]**Write in the form '$n^{th}$ root of a' in each of the following numbers.** [cite: 52]
+    (1) [cite_start]$(81)^{\frac{1}{4}}$ [cite: 53]
+    (2) [cite_start]$49^{\frac{1}{2}}$ [cite: 54]
+    (3) [cite_start]$(15)^{\frac{1}{5}}$ [cite: 55, 56]
+    (4) [cite_start]$(512)^{\frac{1}{9}}$ [cite: 57]
+    (5) [cite_start]$100^{\frac{1}{19}}$ [cite: 58]
+    (6) [cite_start]$(6)^{\frac{1}{7}}$ [cite: 67]
+
+---
+[cite_start]**(II) The meaning of numbers, having index in the rational form $\frac{m}{n}$.** [cite: 59]
+
+[cite_start]We can get two meanings from a number like $a^{\frac{m}{n}}$: [cite: 78, 79]
+1.  [cite_start]$a^{\frac{m}{n}} = (a^m)^{\frac{1}{n}}$ means '$n^{th}$ root of $m^{th}$ power of a'. [cite: 80]
+2.  [cite_start]$a^{\frac{m}{n}} = (a^{\frac{1}{n}})^m$ means '$m^{th}$ power of $n^{th}$ root of a'. [cite: 81]
+
+For example, for $8^{\frac{2}{3}}$:
+* [cite_start]$(8^2)^{\frac{1}{3}}$ means 'cube root of the square of 8'. [cite: 73]
+* [cite_start]$(8^{\frac{1}{3}})^2$ means 'square of the cube root of 8'. [cite: 73]
+
+---
+**Practice Set 3.2**
+
+1.  [cite_start]**Complete the following table.** [cite: 82]
+| Sr. No. | Number              | Power of the root                 | Root of the power                 |
+|---------|---------------------|-----------------------------------|-----------------------------------|
+| (1)     | $(225)^{\frac{3}{2}}$  | Cube of square root of 225        | Square root of cube of 225        |
+| (2)     | $(45)^{\frac{4}{5}}$   | 4th power of 5th root of 45       | 5th root of 4th power of 45       |
+| (3)     | $(81)^{\frac{6}{7}}$   | 6th power of 7th root of 81       | 7th root of 6th power of 81       |
+| (4)     | $(100)^{\frac{4}{10}}$ | 4th power of 10th root of 100     | 10th root of 4th power of 100     |
+| (5)     | $(21)^{\frac{3}{7}}$   | 3rd power of 7th root of 21       | 7th root of 3rd power of 21       |
+
+2.  [cite_start]**Write the following numbers in the form of rational indices.** [cite: 85]
+    (1) [cite_start]Square root of 5th power of 121. [cite: 87]
+    (2) [cite_start]Cube of 4th root of 324. [cite: 87]
+    (3) [cite_start]5th root of square of 264. [cite: 88]
+    (4) [cite_start]Cube of cube root of 3. [cite: 89]
+
+---
+**Let's learn.**
+
+[cite_start]**Cube and Cube Root** [cite: 97]
+
+If a number is written 3 times and multiplied, the product is called the cube of the number. [cite_start]For example, $6 \times 6 \times 6 = 6^3 = 216$. [cite: 98, 99]
+
+[cite_start]**To find the cube root** [cite: 117]
+[cite_start]We can find the cube root of a number by using the prime factorization method. [cite: 118, 119]
+* **Ex. (1)[cite_start]** Find the cube root of 216. [cite: 120]
+    [cite_start]Solution: $216 = 2 \times 2 \times 2 \times 3 \times 3 \times 3 = (2 \times 3) \times (2 \times 3) \times (2 \times 3) = (6)^3$. [cite: 122, 124]
+    [cite_start]Therefore, $\sqrt[3]{216} = 6$. [cite: 125]
+
+* **Ex. (2)[cite_start]** Find the cube root of -1331. [cite: 127]
+    [cite_start]Solution: First, factorize 1331. $1331 = 11 \times 11 \times 11 = 11^3$. [cite: 128]
+    [cite_start]So, $-1331 = (-11) \times (-11) \times (-11) = (-11)^3$. [cite: 129]
+    [cite_start]Therefore, $\sqrt[3]{-1331} = -11$. [cite: 130]
+
+---
+**Practice Set 3.3**
+
+1.  [cite_start]**Find the cube roots of the following numbers.** [cite: 139]
+    (1) 8000
+    (2) [cite_start]729 [cite: 143]
+    (3) [cite_start]343 [cite: 145]
+    (4) [cite_start]-512 [cite: 147]
+    (5) [cite_start]-2744 [cite: 148]
+    (6) [cite_start]32768 [cite: 148]
+
+2.  [cite_start]**Simplify:** [cite: 141]
+    (1) [cite_start]$\sqrt[3]{\frac{27}{125}}$ [cite: 146]
+    (2) [cite_start]$\sqrt[3]{\frac{16}{54}}$ [cite: 146]
+
+3.  [cite_start]If $\sqrt[3]{729} = 9$, then $\sqrt[3]{0.000729} = ?$ [cite: 149, 152]
+
+---
+### **Answers**
+
+**Practice Set 3.1**
+* [cite_start]**1.** (1) $13^{\frac{1}{5}}$ (2) $9^{\frac{1}{6}}$ (3) $256^{\frac{1}{2}}$ (4) $17^{\frac{1}{3}}$ (5) $100^{\frac{1}{8}}$ (6) $30^{\frac{1}{7}}$ [cite: 153, 154]
+* [cite_start]**2.** (1) Fourth root of 81. (2) Square root of 49. (3) Fifth root of 15. (4) Ninth root of 512. (5) Nineteenth root of 100. (6) Seventh root of 6. [cite: 154]
+
+**Practice Set 3.2**
+* [cite_start]**1.** See table above. [cite: 155, 156, 157, 158]
+* [cite_start]**2.** (1) $(121)^{\frac{5}{2}}$ (2) $(324)^{\frac{3}{4}}$ (3) $(264)^{\frac{2}{5}}$ (4) $3^{\frac{3}{3}}$ or 3 [cite: 159, 160, 161]
+
+**Practice Set 3.3**
+* [cite_start]**1.** (1) 20 (2) 9 (3) 7 (4) -8 (5) -14 (6) 32 [cite: 161]
+* [cite_start]**2.** (1) $\frac{3}{5}$ (2) $\frac{2}{3}$ [cite: 161]
+* [cite_start]**3.** 0.09 [cite: 162]
