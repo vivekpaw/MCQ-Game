@@ -1,0 +1,98 @@
+--------------------
+### 11. Statistics
+--------------------
+
+**Let's learn.**
+
+[cite_start]**Statistics** is a branch of knowledge that involves collecting, analyzing, and interpreting information to draw conclusions[cite: 161, 162].
+
+### Arithmetic Mean
+[cite_start]The **average** of a set of numerical data is also known as the **Arithmetic Mean** or simply **Mean**[cite: 157, 163]. [cite_start]To find the mean, you add all the scores in the data and divide the sum by the total number of scores[cite: 164].
+
+For larger datasets, a frequency table is used to simplify the calculation.
+
+[cite_start]**Formula**: Mean $(\bar{x}) = \frac{\Sigma f_i \times x_i}{N}$ [cite: 221]
+Where:
+* $x_i$ = Scores
+* $f_i$ = Frequency of each score
+* $N$ = Total frequency ($\Sigma f_i$)
+* [cite_start]$\Sigma f_i \times x_i$ = The sum of the products of each score and its frequency [cite: 220]
+
+---
+**Practice Set 11.1**
+
+1.  The table shows the number of saplings planted by 30 students. Fill in the boxes and find the average number of saplings planted.
+| No. of saplings (Scores) $x_i$ | No. of students (frequency) $f_i$ | $f_i \times x_i$ |
+|--------------------------------|------------------------------------|------------------|
+| 1                              | 4                                  | 4                |
+| 2                              | 6                                  | ...              |
+| 3                              | 12                                 | ...              |
+| 4                              | 8                                  | ...              |
+|                                | $N = ?$                            | $\Sigma f_i x_i = ?$ |
+
+2.  The table shows the electricity (in units) used by 25 families. Complete the table and answer the questions.
+    * [cite_start]How many families use 45 units of electricity? [cite: 247, 248, 249, 250]
+    * [cite_start]State the score whose frequency is 5. [cite: 251, 252]
+    * [cite_start]Find N and $\Sigma f_i x_i$. [cite: 253, 254]
+    * [cite_start]Find the mean of electricity used by each family. [cite: 255]
+
+3.  The number of members in 40 families is given. [cite_start]Prepare a frequency table and find the mean of members of 40 families[cite: 256, 257].
+
+4.  The number of Science and Mathematics projects submitted by a school over the last 20 years is given. [cite_start]Prepare a frequency table and find the mean of the data[cite: 258].
+
+---
+### Subdivided Bar Graph
+[cite_start]A subdivided bar graph is used to compare data by showing information of two or more constituents as parts of a single bar[cite: 262, 263].
+
+**Steps to draw a subdivided bar graph:**
+1.  Prepare a table of the data, including totals for each category.
+2.  Draw the X-axis and Y-axis and choose an appropriate scale.
+3.  On the X-axis, mark the categories (e.g., towns).
+4.  For each category, draw a single bar representing the total value.
+5.  Divide each bar into segments representing the different constituents, using different colors or patterns to distinguish them.
+
+---
+**Practice Set 11.2**
+
+1.  Observe the provided subdivided bar graph on savings and answer the questions.
+    * [cite_start]State the type of graph. [cite: 304]
+    * [cite_start]How much is the savings of Vaishali in April? [cite: 305, 306]
+    * [cite_start]What is the total savings of Saroj in March and April? [cite: 307]
+    * [cite_start]How much more is the total savings of Savita than Megha? [cite: 308]
+    * [cite_start]Whose savings in April is the least? [cite: 309]
+
+2.  The number of boys and girls in standards 5 to 8 is given. [cite_start]Draw a subdivided bar graph to show the data[cite: 311, 312, 313].
+
+3.  The number of trees planted in 2016 and 2017 in four towns is given. [cite_start]Show the data with a subdivided bar graph[cite: 316, 317].
+
+---
+### Percentage Bar Graph
+[cite_start]A percentage bar graph is a type of subdivided bar graph where the data is converted into percentages[cite: 332]. [cite_start]This is useful for comparing data across different groups when the total numbers are not the same[cite: 327]. [cite_start]In a percentage bar graph, all bars are of height 100 units, representing 100%[cite: 356].
+
+---
+**Practice Set 11.3**
+
+1.  [cite_start]Show the following information by a percentage bar graph: the number of students securing grade A out of the total students in four divisions of standard 8[cite: 360].
+
+2.  Observe the provided percentage bar graph on farm production and answer the questions.
+    * [cite_start]State the type of bar graph. [cite: 382, 388]
+    * [cite_start]What is the percentage of Tur production to total production in Ajita's farm? [cite: 389, 390]
+    * Compare the production of Gram for Yash and Ravi. [cite_start]Whose percentage is more and by how much? [cite: 391]
+    * [cite_start]Whose percentage production of Tur is the least? [cite: 392]
+    * [cite_start]State the production percentages of Tur and Gram in Sudha's farm. [cite: 393]
+
+3.  Data on the inclination of 10th-standard students towards science and commerce streams is collected. [cite_start]Draw a percentage bar graph of this data[cite: 394, 395].
+
+---
+### **Answers**
+
+* **Practice Set 11.1**
+    * [cite_start]2. (1) 2 (2) 75 (3) $N=25, \Sigma f_i x_i = 1425$ (4) 57 [cite: 400, 401, 402]
+    * [cite_start]3. 3.9 [cite: 403]
+    * [cite_start]4. 2.75 [cite: 404]
+
+* **Practice Set 11.2**
+    * [cite_start]1. (1) Subdivided bar graph (2) ₹600 (3) ₹800 (4) ₹500 (5) Megha's [cite: 405, 406, 407, 408]
+
+* **Practice Set 11.3**
+    * [cite_start]2. (1) Percentage bar graph (2) 60% (3) Yash's, more by 20% (4) Sudha's (5) 40% and 60% [cite: 409, 410, 411, 412, 413]
