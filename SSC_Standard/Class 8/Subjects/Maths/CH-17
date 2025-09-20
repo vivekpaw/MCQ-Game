@@ -1,0 +1,54 @@
+---------------------------------
+### 17. Circle - Chord and Arc
+---------------------------------
+
+**Let's learn.**
+
+### Properties of a Chord of a Circle
+
+A **chord** is a line segment whose endpoints both lie on a circle. Chords have two key properties related to the center of the circle:
+
+1.  [cite_start]**The perpendicular drawn from the centre of a circle to its chord bisects the chord.** [cite: 1627] This means if a line from the center meets a chord at a 90° angle, it divides the chord into two equal parts.
+2.  [cite_start]**The segment joining the centre of a circle and the midpoint of its chord is perpendicular to the chord.** [cite: 1639] This is the converse of the first property. If a line is drawn from the center to the exact middle of a chord, it will always be perpendicular to the chord.
+
+These properties are often used with the Pythagorean theorem in a right-angled triangle formed by the radius, half the chord length, and the perpendicular distance from the center to the chord.
+
+---
+**Practice Set 17.1**
+
+1.  In a circle with centre P, chord AB is 13 cm long. If seg PQ is perpendicular to chord AB, find the length of QB.
+2.  The radius of a circle with centre O is 25 cm. The length of a chord is 48 cm. Find the distance of the chord from the centre.
+3.  O is the centre of a circle. A chord of length 24 cm is at a distance of 9 cm from the centre. Find the length of the radius.
+4.  C is the centre of a circle whose radius is 10 cm. The length of a chord is 12 cm. Find the distance of the chord from the centre.
+
+---
+### Arcs Corresponding to a Chord
+A chord divides a circle into two parts, a **minor arc** and a **major arc**. These are called the corresponding arcs of the chord.
+
+**Congruent Arcs**
+Two arcs are congruent if they have the same measure (i.e., the same central angle).
+
+* [cite_start]**Property 1**: The chords corresponding to congruent arcs are congruent. [cite: 1738]
+* [cite_start]**Property 2**: If two chords in a circle are congruent, then their corresponding minor and major arcs are also congruent. [cite: 1738]
+
+---
+**Practice Set 17.2**
+
+1.  The diameters PQ and RS of a circle with centre C are perpendicular to each other. State why arc PS and arc SQ are congruent. Write the other arcs which are congruent to arc PS.
+2.  In the adjoining figure, O is the centre of the circle. Measures of some central angles are given.
+    * Find $m\angle AOB$ and $m\angle COD$.
+    * Show that arc AB is congruent to arc CD.
+    * Show that chord AB is congruent to chord CD.
+
+---
+### **Answers**
+
+* **Practice Set 17.1**
+    1.  6.5 cm
+    2.  7 cm
+    3.  15 cm
+    4.  8 cm
+
+* **Practice Set 17.2**
+    1.  (1) Because the arcs have equal measures (90° each). (2) arc $PS \cong$ arc $PR \cong$ arc RQ.
+    2.  (1) $m\angle AOB = m\angle COD = 45^{\circ}$. (2) Congruent because their measures are equal (45°). (3) Congruent because they are corresponding chords of congruent arcs.
